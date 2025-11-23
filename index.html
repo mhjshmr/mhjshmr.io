@@ -123,7 +123,25 @@
       margin-bottom: 0.4rem;
     }
 
-    .certification-card, .project-card {
+    .cert-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem 2rem;
+  margin-top: 1.5rem;
+}
+
+.certification-card {
+  width: 100%;
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 12px;
+  padding: 1rem 0.4rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 8px rgba(88, 166, 255, 0.1);
+}
+
+
+    .project-card {
       background-color: #161b22;
       border: 1px solid #30363d;
       border-radius: 12px;
@@ -229,18 +247,22 @@
     </section>
 
     <section id="certifications">
-      <h2>Certifications</h2>
-      <div class="certification-card">Certified Ethical Hacker (CEH) – LinkedIn </div>
-      <div class="certification-card">Advanced Penetration Tester (APT) - RedTeamHacker Academy </div>
-      <div class="certification-card">Security Operation Center in Practice – IBM </div>
-      <div class="certification-card">ISO/IEC 27001:2022 Lead Auditor – Mastermind </div>
-      <div class="certification-card">Penetration Testing Professional Certificate – Cybrary</div>
-	  <div class="certification-card">Getting Started with Threat Intelligence & Hunting – IBM</div>
-	  <div class="certification-card">How to Investigate a SIEM Alert? – LetsDefend</div>
-	  <div class="certification-card">Penetration Testing with Metasploit – LinkedIn </div>
-	  <div class="certification-card">Docker Foundations Professional Certificate — Docker, Inc.</div>
-	  <div class="certification-card">Introduction to Critical Infrastructure Protection (ICIP) — OPSWAT</div>
-    </section> 
+  <h2>Certifications</h2>
+
+  <div class="cert-grid">
+    <div class="certification-card">Certified Ethical Hacker (CEH) – LinkedIn</div>
+    <div class="certification-card">Advanced Penetration Tester (APT) – RedTeamHacker Academy</div>
+    <div class="certification-card">Security Operation Center in Practice – IBM</div>
+    <div class="certification-card">ISO/IEC 27001:2022 Lead Auditor – Mastermind</div>
+    <div class="certification-card">Penetration Testing Professional Certificate – Cybrary</div>
+
+    <div class="certification-card">Getting Started with Threat Intelligence & Hunting – IBM</div>
+    <div class="certification-card">How to Investigate a SIEM Alert? – LetsDefend</div>
+    <div class="certification-card">Penetration Testing with Metasploit – LinkedIn</div>
+    <div class="certification-card">Docker Foundations Professional Certificate — Docker, Inc.</div>
+    <div class="certification-card">Introduction to Critical Infrastructure Protection (ICIP) — OPSWAT</div>
+  </div>
+</section> 
 
 <section id="contact" style="margin-top:30px;">
   <h2 style="text-align:left; margin-bottom:15px;">Contact</h2>
