@@ -39,6 +39,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - **[Lead Auditor Certifications (ISO/IEC 27001:2022 & ISO/IEC 42001:2023)](https://github.com/mhjshmr/mhjshmr/tree/main/Certificates/Lead%20Auditor%20Certifications)** – Mastermind
 - **[Penetration Testing Professional Certificate](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Penetration%20Testing%20Professional%20Certificate%20by%20Cybrary.jpg)** – Cybrary
 - **[How to Investigate a SIEM Alert?](https://app.letsdefend.io/my-rewards/detail/9c8d47305c114b7e8ea6499c3bd1334e)** – LetsDefend
+- **[Introduction to Critical Infrastructure Protection (ICIP)](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/Introduction%20to%20CIP.png)**  — OPSWAT
 - **[Getting Started with Threat Intelligence & Hunting](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/Getting%20Started%20with%20Threat%20Intelligence%20and%20Hunting.pdf)** – IBM
 - **[Certified Ethical Hacker (CEH)](https://github.com/mhjshmr/mhjshmr.io/blob/main/Certificates/Certified%20Ethical%20Hacker%20(CEH).jpg)** - LinkedIn Learning
   
