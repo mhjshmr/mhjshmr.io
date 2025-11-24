@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>MINHAJ SHAMEER AHAMED | Portfolio</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
     body {
       margin: 0;
@@ -17,7 +18,7 @@
     .container {
       max-width: 1200px;
       margin: 0 auto;
-      padding: 2rem;
+      padding: 0.1rem;
       position: relative;
     }
 
@@ -69,6 +70,30 @@
     }
 
     .nav a:hover {
+      background-color: #58a6ff;
+      color: #0d1117;
+      box-shadow: 0 0 15px #58a6ff88;
+    }
+
+      .navi {
+      display: flex;
+      justify-content: left;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .navi a {
+      color: #58a6ff;
+      font-weight: 700;
+      text-decoration: none;
+      border: 2px solid #58a6ff;
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      transition: all 0.3s ease;
+    }
+
+    .navi a:hover {
       background-color: #58a6ff;
       color: #0d1117;
       box-shadow: 0 0 15px #58a6ff88;
@@ -159,11 +184,65 @@
     .project-card a:hover {
       text-decoration: underline;
     }
+
+.social-buttons {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+}
+
+.social-buttons a {
+  width: 48px;
+  height: 48px;
+  border: 2px solid #58a6ff;
+  border-radius: 88px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #58a6ff;
+  font-size: 1.5rem;
+  transition: 0.3s ease;
+  text-decoration: none;
+}
+
+.social-buttons a:hover {
+  background-color: #58a6ff;
+  color: #0d1117;
+  box-shadow: 0 0 12px #58a6ffaa;
+  transform: translateY(-3px);
+}
+.comeup {
+  display: flex;
+  justify-content: right;
+  gap: 0.2rem;
+}
+
+.comeup a {
+  width: 48px;
+  height: 48px;
+  border: 2px solid #58a6ff;
+  border-radius: 88px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #58a6ff;
+  font-size: 1.5rem;
+  transition: 0.3s ease;
+  text-decoration: none;
+}
+
+.comeup a:hover {
+  background-color: #58a6ff;
+  color: #0d1117;
+  box-shadow: 0 0 12px #58a6ffaa;
+  transform: translateY(-3px);
+}
   </style>
 </head>
 <body>
   <div class="container">
-    <section class="hero">
+    <section id="Top" class="hero">
       <img src="https://raw.githubusercontent.com/mhjshmr/mhjshmr.io/main/Minhaj_Profile.jpg" alt="Minhaj Shameer Photo">
       <h1>MINHAJ SHAMEER AHAMED</h1>
       <p>Penetration Tester | Cyber Security Analyst</p>
@@ -175,17 +254,34 @@
         <a href="#contact">Contact</a>
         <a href="https://github.com/mhjshmr/mhjshmr.io/blob/main/MINHAJ.SHAMEER.RESUME.pdf" target="_blank">Download Resume</a>
       </div>
+        <div class="social-buttons"> 
+    <a href="https://linkedin.com/in/mhjshmrahmd" target="_blank">
+      <i class="fa-brands fa-linkedin"></i>
+    </a>
+    <a href="https://github.com/mhjshmr" target="_blank">
+      <i class="fa-brands fa-github"></i>
+    </a>
+        <a href="https://tryhackme.com/p/mhj.shmr" target="_blank" class="thm-icon">
+        <i class="fa-solid fa-fire" alt="TryHackMe"></i>
+    </a>
+    <a href="mailto:mhjshmrahmd@gmail.com" target="_blank">
+      <i class="fa-solid fa-envelope"></i>
+    </a>
+    <a href="https://wa.me/971555309355?text=Hi%20Minhaj,%20I’d%20like%20to%20get%20in%20touch." target="_blank">
+      <i class="fa-brands fa-whatsapp"></i>
+    </a>
+</div>
     </section>
 
     <section id="about">
-      <h2>About Me</h2>
+      <h2>About me.</h2>
 	<p>I’m a Penetration Tester and Security Analyst with hands-on experience in Vulnerability Assessment and Penetration Testing (VAPT), Web and Network Security, and Threat Analysis. I’m skilled in using tools like Metasploit, Burp Suite, Nmap, and Wireshark, and proficient in Python and Bash scripting for automating security tasks and exploit development.</p>
 	<p>I’m CEH v13 trained, with practical exposure gained through labs, internships, and real-world cybersecurity projects. As part of my BSc (Hons) Cyber Security, which I completed with First-Class Honours, I developed MetaWarden — a metadata detection and privacy risk analysis tool that focuses on secure application development and forensic analysis.</p>
 	<p>My experience spans OWASP Top 10 assessments, Active Directory exploitation, and OS-level vulnerability testing. I’m passionate about uncovering security weaknesses, creating detailed technical documentation, and continuously enhancing both offensive and defensive cybersecurity skills. Currently, I’m preparing to pursue CompTIA Security+ to further strengthen my professional credentials.</p>
     </section>
 
     <section id="projects">
-      <h2>Projects</h2>
+      <h2>Projects.</h2>
       <div class="project-card"><a href="https://github.com/mhjshmr/MetaWarden" target="_blank">MetaWarden: Metadata Detection & Privacy Risk Analysis Tool – Final Year Project </a></div>
 	  <div class="project-card"><a href="https://github.com/mhjshmr/PassFortX" target="_blank">PassFortX – Password Strength Checker & Generator </a></div>
       <div class="project-card"><a href="https://github.com/mhjshmr/mhjshmr.io/blob/main/Projects/EMULATING%20HONEYPOTS.pdf" target="_blank">Emulating Honeypots: A Practical Cyber Deception Simulation</a></div>
@@ -195,7 +291,7 @@
     </section>
 
     <section id="skills">
-      <h2>Skills</h2>
+      <h2>Skills.</h2>
       <div class="skills-grid">
         <div class="skill-card">
           <h3>Security Operations & Tools</h3>
@@ -247,7 +343,7 @@
     </section>
 
     <section id="certifications">
-  <h2>Certifications</h2>
+  <h2>Certifications.</h2>
 
   <div class="cert-grid">
     <div class="certification-card">Certified Ethical Hacker (CEH) – LinkedIn</div>
@@ -265,7 +361,7 @@
 </section> 
 
 <section id="contact" style="margin-top:30px;">
-  <h2 style="text-align:left; margin-bottom:15px;">Contact</h2>
+  <h2 style="text-align:left; margin-bottom:15px;">Connect me.</h2>
   
   <p style="margin-bottom:10px;">
     You can reach me via email at 
@@ -286,9 +382,39 @@
   GitHub: 
   <a href="https://github.com/mhjshmr" target="_blank" style="color:#58a6ff; text-decoration:underline;">github.com/mhjshmr</a>
 </p>
+
+<div class="navi">
+        <a href="https://github.com/mhjshmr/mhjshmr.io/blob/main/MINHAJ.SHAMEER.RESUME.pdf" target="_blank">Download Resume</a>
+      </div>
 </section>
 
+<div class="comeup">
+  <a href="#Top" target="_blank">
+      <i class="fa-solid fa-arrow-up"></i>
+    </a>
+</div>
+<div class="social-buttons"> 
+    <a href="https://linkedin.com/in/mhjshmrahmd" target="_blank">
+      <i class="fa-brands fa-linkedin"></i>
+    </a>
+    <a href="https://github.com/mhjshmr" target="_blank">
+      <i class="fa-brands fa-github"></i>
+    </a>
+        <a href="https://tryhackme.com/p/mhj.shmr" target="_blank">
+        <i class="fa-solid fa-fire" alt="TryHackMe"></i>
+    </a>
+    <a href="mailto:mhjshmrahmd@gmail.com" target="_blank">
+      <i class="fa-solid fa-envelope"></i>
+    </a>
+    <a href="https://wa.me/971555309355?text=Hi%20Minhaj,%20I’d%20like%20to%20get%20in%20touch." target="_blank">
+      <i class="fa-brands fa-whatsapp"></i>
+    </a>
+</div>
+ 
+<div class="footer" style="text-align:center; margin-top:40px; padding:20px 0; border-top:1px solid #30363d; color:#6a737d; font-size:0.9rem;">
+     <em>“Cybersecurity is not a product, it’s a practice.” – Bruce Schneier</em> <br><br> 
+     &copy; 2024 MINHAJ SHAMEER AHAMED. All rights reserved.
+</div>
 
-  </div>
 </body>
 </html>
