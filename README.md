@@ -31,16 +31,15 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 
 ## Certifications
 
-- **Certified Ethical Hacker (CEH)** – EC-Council (Trained)
 - **CompTIA Security+** – CompTIA (Training)
 - **Enterprise Defense Administrator (eEDA)** – INE (Training)
 - **[Advanced Penetration Tester (APT)](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/RedTeam-Advanced%20Penetration%20Testing-Certificate.pdf)** – RedTeam Hacker Academy
-- **[Introduction to Cybersecurity](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Introduction%20to%20Cybersecurity.pdf)** – Cisco
+- **[Security Operation Center in Practice](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/SOC%20in%20Practice.pdf)** – IBM
 - **[Penetration Testing with Metasploit](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Penetration%20Testing%20with%20Metasploit.jpg)** – LinkedIn Learning
-- **[ISO/IEC 27001 INFORMATION SECURITY ASSOCIATE™](https://github.com/mhjshmr/mhjshmr.io/blob/main/Certificates/SkillFront-ISO%2027001.pdf)** – SkillFront
-- **[Networking Basics](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Networking%20Basics.pdf)** – Cisco
-- **[SOC Fundamentals](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/SOC%20Fundamentals.png)** – LetsDefend
+- **[Lead Auditor Certifications (ISO/IEC 27001:2022 & ISO/IEC 42001:2023)](https://github.com/mhjshmr/mhjshmr/tree/main/Certificates/Lead%20Auditor%20Certifications)** – Mastermind
 - **[Penetration Testing Professional Certificate](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Penetration%20Testing%20Professional%20Certificate%20by%20Cybrary.jpg)** – Cybrary
+- **[How to Investigate a SIEM Alert?](https://app.letsdefend.io/my-rewards/detail/9c8d47305c114b7e8ea6499c3bd1334e)** – LetsDefend
+- **[Getting Started with Threat Intelligence & Hunting](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/Getting%20Started%20with%20Threat%20Intelligence%20and%20Hunting.pdf)** – IBM
 - **[Certified Ethical Hacker (CEH)](https://github.com/mhjshmr/mhjshmr.io/blob/main/Certificates/Certified%20Ethical%20Hacker%20(CEH).jpg)** - LinkedIn Learning
   
 ---
