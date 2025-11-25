@@ -40,7 +40,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - **[Penetration Testing Professional Certificate](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Penetration%20Testing%20Professional%20Certificate%20by%20Cybrary.jpg)** – Cybrary
 - **[How to Investigate a SIEM Alert?](https://app.letsdefend.io/my-rewards/detail/9c8d47305c114b7e8ea6499c3bd1334e)** – LetsDefend
 - **[Introduction to Critical Infrastructure Protection (ICIP)](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/Introduction%20to%20CIP.png)**  — OPSWAT
-- **[Getting Started with Threat Intelligence & Hunting](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/Getting%20Started%20with%20Threat%20Intelligence%20and%20Hunting.pdf)** – IBM
+- **[Ethical Hacker](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%96%F0%9D%97%94%F0%9D%97%9F%20%F0%9D%97%9B%F0%9D%97%94%F0%9D%97%96%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%A5.pdf)** – CISCO
 - **[Certified Ethical Hacker (CEH)](https://github.com/mhjshmr/mhjshmr.io/blob/main/Certificates/Certified%20Ethical%20Hacker%20(CEH).jpg)** - LinkedIn Learning
   
 ---
