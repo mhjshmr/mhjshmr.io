@@ -113,4 +113,4 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 
 ---
 
-> “<i>Cybersecurity is not a product, it’s a practice.</i>” – Bruce Schneier
+> “Cybersecurity is not a product, it’s a practice.” – <i>Bruce Schneier</i>
