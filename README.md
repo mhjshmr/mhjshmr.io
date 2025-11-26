@@ -100,20 +100,20 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 
 ## Experiences
 
-**RedTeam Hacker Academy – Penetration Testing Intern (Jun 2025 – Oct 2025, Dubai, UAE)**
+**RedTeam Hacker Academy – Cyber Security Analyst Intern (Jun 2025 – Present, Dubai, UAE)**
 
-- Conducted penetration testing on virtual lab environments to identify vulnerabilities and misconfigurations.
-- Developed structured checklists for vulnerability assessment and security testing procedures.
-- Documented technical findings, including CVEs, exploitation steps, and risk levels.
-- Generated detailed penetration test reports with remediation recommendations
-- Gained hands-on experience with tools like Nmap, Burp Suite, Metasploit, and Wireshark.
+- Conducted penetration testing and vulnerability assessments on both virtual lab environments and real-world web applications.
+- Identified security weaknesses, misconfigurations, and potential attack vectors, performing tests such as XSS, SQL Injection, and header tampering.
+- Documented technical findings including risk levels, exploitation steps, and remediation recommendations in structured reports.
+- Developed and followed checklists and structured methodologies for consistent security testing procedures.
+- Gained hands-on experience with tools like Nmap, Burp Suite, Gobuster, FFUF, Metasploit, and Wireshark.
 
-**[Woodlem Education](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Freelance%20Experience%20%40%20WoodlemEd.pdf) – Freelance Penetration Tester (Apr 2025 – Sep 2025, Dubai & Ajman, UAE)** 
+**[Woodlem Education](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Freelance%20Experience%20%40%20WoodlemEd.pdf) – Freelance Security Analyst (Apr 2025 – Present, Dubai & Ajman, UAE)** 
 
-- Performed penetration testing on networks, systems, and web applications.
-- Identified vulnerabilities including XSS, SQLi, file upload issues, and access control flaws.
-- Delivered technical reports with detailed findings and remediation plans to strengthen security posture.
-- Utilized tools such as Metasploit, Nmap, Nessus, and Burp Suite.
+- Conducted penetration testing on client networks, systems, and web applications using Metasploit, Nmap, Nessus, and Burp Suite
+- Identified vulnerabilities including XSS, SQL injection, insecure file uploads, and access control issues, and provided detailed remediation reports
+- Implemented secure configurations, advised on patch management strategies, and collaborated with clients on continuous security improvements
+- Delivered penetration testing services for multi-branch organizations in Dubai and Ajman
 
 **Step Conference – IT Help Desk (Feb 2025, Dubai, UAE)**  
 - Provided technical support to conference staff and attendees.
