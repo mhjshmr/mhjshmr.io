@@ -108,7 +108,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - Developed and followed checklists and structured methodologies for consistent security testing procedures.
 - Gained hands-on experience with tools like Nmap, Burp Suite, Gobuster, FFUF, Metasploit, and Wireshark.
 
-**[Woodlem Education](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Freelance%20Experience%20%40%20WoodlemEd.pdf) – Freelance Security Analyst (Apr 2025 – Present, Dubai & Ajman, UAE)** 
+**[Woodlem Education](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Freelance%20Experience%20%40%20WoodlemEd.pdf) – Freelance Security Analyst (Apr 2025 – Present, UAE)** 
 
 - Conducted penetration testing on client networks, systems, and web applications using Metasploit, Nmap, Nessus, and Burp Suite
 - Identified vulnerabilities including XSS, SQL injection, insecure file uploads, and access control issues, and provided detailed remediation reports
