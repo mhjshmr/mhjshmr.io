@@ -69,9 +69,27 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - System Exploitation: Gained root/system access on misconfigured Linux/Windows hosts using Metasploit and manual privilege escalation.
 
 ### [Virtual Cybersecurity Experiences](https://github.com/mhjshmr/mhjshmr/tree/main/Certificates/Virtual%20Cybersecurity%20Experiences)
-- **Datacom** – Network security & incident response tasks.
-- **Mastercard** – Phishing detection and user awareness training design.
-- **Tata** – Security operations & vulnerability assessment practice.
+**Mastercard Cybersecurity** 
+- Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
+- Helped identify and report security threats such as phishing 
+- Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
+**Datacom Cyber Security Operations**
+- Completed a simulation focussed on how Datacom's cybersecurity team helps protect it's clients
+- Investigated a cyberattack and produced a comprehensive report documenting findings and outlining key recommendations to improve a client's cybersecurity posture
+- Conducted a comprehensive risk assessment
+**Tata Cybersecurity Analyst**
+- Completed a job simulation involving identity and access management (IAM) for Tata Consultancy Services, collaborating with a Cybersecurity Consulting team.
+- Acquired expertise in IAM principles, cybersecurity best practices, and strategic alignment with business objectives.
+- Delivered comprehensive documentation and presentations, showcasing the ability to communicate complex technical concepts effectively.
+**AIG Shields Up: Cybersecurity**
+- Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
+- Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
+- Drafted a clear and concise email to guide teams on vulnerability remediation.
+- Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.
+**Deloitte Australia Cyber**
+- Completed a job simulation involving reading web activity logs
+- Supported a client in a cyber security breach
+- Answered questions to identify suspicious user activity
 
 ---
 
