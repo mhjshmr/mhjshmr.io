@@ -73,7 +73,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
 - Helped identify and report security threats such as phishing 
 - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
-**Datacom Cyber Security Operations**
+<br> **Datacom Cyber Security Operations**
 - Completed a simulation focussed on how Datacom's cybersecurity team helps protect it's clients
 - Investigated a cyberattack and produced a comprehensive report documenting findings and outlining key recommendations to improve a client's cybersecurity posture
 - Conducted a comprehensive risk assessment
