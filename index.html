@@ -238,6 +238,38 @@
   box-shadow: 0 0 12px #58a6ffaa;
   transform: translateY(-3px);
 }
+
+.social-footerbuttons {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+}
+
+.social-footerbuttons a {
+  width: 32px;  /* reduced from 48px */
+  height: 32px; /* reduced from 48px */
+  border: 1.5px solid #0751a5; /* thinner border for proportion */
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #0751a5;
+  font-size: 1.1rem; /* reduced icon size */
+  transition: 0.3s ease;
+  text-decoration: none;
+}
+
+.social-footerbuttons a:hover {
+  background-color: #0751a5;
+  color: #0d1117;
+  box-shadow: 0 0 10px #0751a5aa;
+  transform: translateY(-3px);
+}
+
+
+
   </style>
 </head>
 <body>
@@ -392,35 +424,48 @@
 </section>
 
 <div class="comeup">
-  <a href="#" target="_blank">
+  <a href="#">
       <i class="fa-solid fa-arrow-up"></i>
     </a>
 </div>
-<div class="social-buttons"> 
-    <a href="https://linkedin.com/in/mhjshmrahmd" target="_blank">
-      <i class="fa-brands fa-linkedin"></i>
-    </a>
-    <a href="https://github.com/mhjshmr" target="_blank">
-      <i class="fa-brands fa-github"></i>
-    </a>
-        <a href="https://tryhackme.com/p/mhj.shmr" target="_blank">
-        <i class="fa-solid fa-fire" alt="TryHackMe"></i>
-    </a>
-	<a href="https://discord.com/users/1375794829052874862" target="_blank" class="discord-icon">
-    <i class="fa-brands fa-discord" alt="Discord"></i>
-</a>
-    <a href="mailto:mhjshmrahmd@gmail.com" target="_blank">
-      <i class="fa-solid fa-envelope"></i>
-    </a>
-    <a href="https://wa.me/971555309355?text=Hi%20Minhaj,%20I’d%20like%20to%20get%20in%20touch." target="_blank">
-      <i class="fa-brands fa-whatsapp"></i>
-    </a>
+    <!-- Centered Quote -->
+<div style="text-align:center; margin:20px 0; font-size:1rem; color:#555;">
+    <span style="font-style:italic;">
+        “Security is achieved not by secrecy, but by disciplined implementation and monitoring.”
+    </span>
+    <span style="margin-left:8px; font-style:normal; color:#888;">- Bruce Schneier</span>
 </div>
+
+
+
  
-<div class="footer" style="text-align:center; margin-top:40px; padding:20px 0; border-top:1px solid #30363d; color:#6a737d; font-size:0.9rem;">
-     <em>“Cybersecurity is not a product, it’s a practice.” – Bruce Schneier</em> <br><br> 
-     &copy; 2024 MINHAJ SHAMEER AHAMED. All rights reserved.
+<div class="footer" style="margin-top:10px; font-size:0.9rem; color:#6a737d;">
+
+    <!-- Footer line -->
+    <div style="border-top:1px solid #30363d; margin-bottom:8px;"></div>
+
+    <!-- Bottom row: Rights (left) + Social icons (right) -->
+    <div style="display:flex; justify-content:space-between; align-items:center;">
+
+        <!-- Left -->
+        <div>
+            &copy; 2025 MINHAJ SHAMEER AHAMED. All rights reserved.
+        </div>
+
+        <!-- Right -->
+        <div class="social-footerbuttons" style="display:flex; gap:10px;">
+            <a href="https://linkedin.com/in/mhjshmrahmd" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://github.com/mhjshmr" target="_blank"><i class="fa-brands fa-github"></i></a>
+            <a href="https://tryhackme.com/p/mhj.shmr" target="_blank"><i class="fa-solid fa-fire"></i></a>
+            <a href="https://discord.com/users/1375794829052874862" target="_blank"><i class="fa-brands fa-discord"></i></a>
+            <a href="mailto:mhjshmrahmd@gmail.com" target="_blank"><i class="fa-solid fa-envelope"></i></a>
+            <a href="https://wa.me/971555309355?text=Hi%20Minhaj,%20I’d%20like%20to%20get%20in%20touch." target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+        </div>
+
+    </div>
 </div>
+
+
 
 </body>
 </html>
