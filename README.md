@@ -53,7 +53,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - Tested edge cases for robustness, achieving 97.14% detection accuracy.
 
 ### [EmailSleuth: Email Phishing Analyzer & Forensics Tool](https://github.com/mhjshmr/EmailSleuth)
-- Developed a Python-based cybersecurity tool to analyze .eml email files and identify phishing indicators.
+- Developed a Python-based cybersecurity tool to analyze `.eml` email files and identify phishing indicators.
 - Implemented header forensics, sender spoofing detection, and SPF/DKIM/DMARC authentication analysis.
 - Integrated URL, image, and content heuristics with a weighted threat-scoring system for phishing triage.
 
