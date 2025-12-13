@@ -52,6 +52,11 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - Built a web interface with metadata extraction, privacy scoring (EXIF: GPS, device info, timestamps), and downloadable reports.
 - Tested edge cases for robustness, achieving 97.14% detection accuracy.
 
+### [EmailSleuth: Email Phishing Analyzer & Forensics Tool](https://github.com/mhjshmr/EmailSleuth)
+- Developed a Python-based cybersecurity tool to analyze .eml email files and identify phishing indicators.
+- Implemented header forensics, sender spoofing detection, and SPF/DKIM/DMARC authentication analysis.
+- Integrated URL, image, and content heuristics with a weighted threat-scoring system for phishing triage.
+
 ### [PassFortX: Password Strength Checker & Generator](https://github.com/mhjshmr/PassFortX)
 - Developed a Python-based cybersecurity tool to evaluate password strength and generate secure passwords.
 - Implemented brute-force crack-time estimation, entropy-based strength analysis, and weak password detection.
