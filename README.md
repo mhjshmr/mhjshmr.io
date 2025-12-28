@@ -52,7 +52,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - Built a web interface with metadata extraction, privacy scoring (EXIF: GPS, device info, timestamps), and downloadable reports.
 - Tested edge cases for robustness, achieving 97.14% detection accuracy.
 
-### [LogSentry – Security Log Analysis & Alerting Tool](https://github.com/mhjshmr/LogSentry)
+### [LogSentry: Security Log Analysis & Alerting Tool](https://github.com/mhjshmr/LogSentry)
 - Developed a Python-based SOC/Blue Team tool to analyze authentication logs and detect suspicious activity.
 - Implemented brute-force (high-volume & low-and-slow), suspicious IP, and privilege escalation detection.
 - Integrated weighted risk scoring with SOC-style escalation rules and generates detailed incident reports for actionable response.
