@@ -62,6 +62,11 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - Implemented header forensics, sender spoofing detection, and SPF/DKIM/DMARC authentication analysis.
 - Integrated URL, image, and content heuristics with a weighted threat-scoring system for phishing triage.
 
+### [PulseIT – Automated System Diagnostics & IT Monitoring Tool](https://github.com/mhjshmr/PulseIT)
+- Developed a Python-based IT monitoring tool to automate system, network, and security diagnostics.
+- Implemented CPU, RAM, disk, network, and firewall checks with detailed HTML/PDF report generation.
+- Integrated antivirus detection, Windows Defender signature checks, patch/update status, and scheduled automated reports for proactive IT management.
+  
 ### [PassFortX: Password Strength Checker & Generator](https://github.com/mhjshmr/PassFortX)
 - Developed a Python-based cybersecurity tool to evaluate password strength and generate secure passwords.
 - Implemented brute-force crack-time estimation, entropy-based strength analysis, and weak password detection.
