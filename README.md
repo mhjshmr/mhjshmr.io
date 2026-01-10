@@ -52,6 +52,11 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - Built a web interface with metadata extraction, privacy scoring (EXIF: GPS, device info, timestamps), and downloadable reports.
 - Tested edge cases for robustness, achieving 97.14% detection accuracy.
 
+### [SignalForge: OT SOC Threat Detection & Triage Assistant](https://github.com/mhjshmr/SignalForge)
+- Developed a Python-based Operational Technology (OT) SOC tool to analyze industrial network PCAPs and detect abnormal control system behavior.
+- Implemented OT asset discovery, PLC baseline learning, protocol-aware anomaly detection, and alert fatigue reduction for industrial environments.
+- Integrated ICS kill chain mapping, analyst narrative generation, and SOC-ready HTML/PDF reporting to support effective triage and incident response.
+
 ### [LogSentry: Security Log Analysis & Alerting Tool](https://github.com/mhjshmr/LogSentry)
 - Developed a Python-based SOC/Blue Team tool to analyze authentication logs and detect suspicious activity.
 - Implemented brute-force (high-volume & low-and-slow), suspicious IP, and privilege escalation detection.
