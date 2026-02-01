@@ -32,13 +32,13 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 ## Certifications
 
 - **CompTIA Security+** – CompTIA (Training)
-- **Enterprise Defense Administrator (eEDA)** – INE (Training)
+- **[Enterprise Defense Administrator (eEDA)](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/Certified%20Ethical%20Hacker%20(CEH).jpg)** – INE 
 - **[Advanced Penetration Tester (APT)](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/RedTeam-Advanced%20Penetration%20Testing-Certificate.pdf)** – RedTeam Hacker Academy
+- **[Certified API Hacking Expert (CAPIE)](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/CAPIE%20-%20Certified%20API%20Hacking%20Expert.pdf)** – The XSS Rat
 - **[Security Operation Center in Practice](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/SOC%20in%20Practice.pdf)** – IBM
 - **[Penetration Testing with Metasploit](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Penetration%20Testing%20with%20Metasploit.jpg)** – LinkedIn Learning
 - **[Lead Auditor Certifications (ISO/IEC 27001:2022 & ISO/IEC 42001:2023)](https://github.com/mhjshmr/mhjshmr/tree/main/Certificates/Lead%20Auditor%20Certifications)** – Mastermind
 - **[Penetration Testing Professional Certificate](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Penetration%20Testing%20Professional%20Certificate%20by%20Cybrary.jpg)** – Cybrary
-- **[How to Investigate a SIEM Alert?](https://app.letsdefend.io/my-rewards/detail/9c8d47305c114b7e8ea6499c3bd1334e)** – LetsDefend
 - **[Introduction to Critical Infrastructure Protection (ICIP)](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/Introduction%20to%20CIP.png)**  — OPSWAT
 - **[Ethical Hacker](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%96%F0%9D%97%94%F0%9D%97%9F%20%F0%9D%97%9B%F0%9D%97%94%F0%9D%97%96%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%A5.pdf)** – Cisco
 - **[Certified Ethical Hacker (CEH)](https://github.com/mhjshmr/mhjshmr.io/blob/main/Certificates/Certified%20Ethical%20Hacker%20(CEH).jpg)** - LinkedIn Learning
