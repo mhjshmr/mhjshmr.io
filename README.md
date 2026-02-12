@@ -1,7 +1,7 @@
 # MINHAJ SHAMEER AHAMED
 
 **PENETRATION TESTER | CYBER SECURITY ANALYST**  
-[Email](mailto:mhjshmrahmd@gmail.com) | [LinkedIn](https://linkedin.com/in/mhjshmrahmd) | [GitHub](https://github.com/mhjshmr) | [TryHackMe](https://tryhackme.com/p/mhj.shmr) | [Portfolio](https://mhjshmr.github.io/mhjshmr/)
+[Email](mailto:minhaj.cybersec@gmail.com) | [LinkedIn](https://linkedin.com/in/mhjshmrahmd) | [GitHub](https://github.com/mhjshmr) | [TryHackMe](https://tryhackme.com/p/mhj.shmr) | [Portfolio](https://mhjshmr.github.io/mhjshmr/)
 
 ---
 
