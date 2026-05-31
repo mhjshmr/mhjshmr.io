@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-063f77?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:minhaj.cybersec@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-278df4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/CEH-Certified-0ac2c2" alt="CEH Certified" />
   <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-07498a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
