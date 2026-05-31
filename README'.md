@@ -97,15 +97,6 @@ print(me.motto())
   <img src="https://streak-stats.demolab.com?user=mhjshmr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhjshmr&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
----
 
 ## 💼 Work Experience
 
@@ -158,14 +149,14 @@ print(me.motto())
 
 <div align="center">
 
-| Project | Stack | Highlights |
+| Project | Highlights |
 |:--------|:------|:-----------|
-| **[MetaWarden](https://github.com/mhjshmr/MetaWarden)** — Metadata Detection & Privacy Risk Analysis Tool | Python, Flask | Final Year Project (First-Class Honours). Detects and removes metadata to prevent privacy leaks; full risk analysis pipeline |
-| **[SignalForge](https://github.com/mhjshmr/SignalForge)** — OT SOC Triage & Threat Detection Assistant | Python | Operational Technology SOC assistant for triaging and detecting threats in industrial/OT environments |
-| **[LogSentry](https://github.com/mhjshmr/LogSentry)** — Security Log Analysis & Alerting Tool | Python, Bash | Automated log parsing, anomaly detection, and alerting for security operations workflows |
-| **[EmailSleuth](https://github.com/mhjshmr/EmailSleuth)** — Email Phishing Analyzer & Forensics Tool | Python | Analyses email headers and content to detect phishing indicators and perform digital forensics |
-| **[Multi-Domain VAPT](https://github.com/mhjshmr/mhjshmr/blob/main/Projects/Internship%20VAPT%20Report%20-%20MINHAJ.pdf)** | Nmap, Burp Suite, Metasploit, Nessus | Full-scope multi-domain penetration testing lab — RedTeam Hacker Academy capstone |
-| **Hands-on Pentest Lab** | HackTheBox, TryHackMe, VulHub, PortSwigger | Continuous practical exploitation and CTF challenges across multiple platforms |
+| **[MetaWarden](https://github.com/mhjshmr/MetaWarden)** — Metadata Detection & Privacy Risk Analysis Tool | Final Year Project (First-Class Honours). Detects and removes metadata to prevent privacy leaks; full risk analysis pipeline |
+| **[SignalForge](https://github.com/mhjshmr/SignalForge)** — OT SOC Triage & Threat Detection Assistant | Operational Technology SOC assistant for triaging and detecting threats in industrial/OT environments |
+| **[LogSentry](https://github.com/mhjshmr/LogSentry)** — Security Log Analysis & Alerting Tool | Automated log parsing, anomaly detection, and alerting for security operations workflows |
+| **[EmailSleuth](https://github.com/mhjshmr/EmailSleuth)** — Email Phishing Analyzer & Forensics Tool | Analyses email headers and content to detect phishing indicators and perform digital forensics |
+| **[Multi-Domain VAPT](https://github.com/mhjshmr/mhjshmr/blob/main/Projects/Internship%20VAPT%20Report%20-%20MINHAJ.pdf)** | Full-scope multi-domain penetration testing lab — RedTeam Hacker Academy capstone |
+| **Hands-on Pentest Lab** | Continuous practical exploitation and CTF challenges across multiple platforms |
 
 </div>
 
@@ -198,26 +189,11 @@ print(me.motto())
 
 **Key Modules:** Cybersecurity · Web Security · Digital Forensics · Networking · Cryptography · ML · Threat Analysis
 
-**Final Year Project:** MetaWarden — Metadata Detection & Removal using Flask
-
 </div>
 
----
-
-## 📚 Currently Learning
-
-```
-CompTIA Security+         →  Domains: Threats, Architecture, Implementation, Ops, Governance
-SIEM Operations           →  Log Correlation, Alerting, Incident Response Workflows
-Cloud Security            →  AWS Security Fundamentals, IAM, Cloud Threat Modelling
-Advanced AD Attacks       →  Kerberoasting, DCSync, Pass-the-Hash, BloodHound Paths
-AI in Cybersecurity       →  Threat Intelligence Automation, ML-based Anomaly Detection
-```
-
----
 
 <div align="center">
-  <i>💬 "Hack to learn. Defend to protect. Build to secure." — Minhaj Shameer</i>
+  “Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
   <br/><br/>
   <a href="https://linkedin.com/in/mhjshmrahmd/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
