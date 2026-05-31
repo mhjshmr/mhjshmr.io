@@ -35,7 +35,7 @@ class MinhajShameer:
         self.location    = "Al Ain | Abu Dhabi | UAE"
         self.degree      = "BSc Cyber Security Eng | First Class Honours"
 
-        self.fun_fact = "I built MetaWarden to protect your metadata privacy 🛡️"
+        self.fun_fact = "Built MetaWarden for metadata privacy 🛡️"
 
     def motto(self):
         return "Hack to learn. Defend to protect. Build to secure. 🔐"
