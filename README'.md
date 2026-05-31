@@ -54,19 +54,12 @@ print(me.motto())
 
   <!-- Core Platforms -->
   <img src="https://skillicons.dev/icons?i=linux,kali,windows" alt="Security Platforms" />
-  <br>
-
   <!-- Programming & Scripting -->
   <img src="https://skillicons.dev/icons?i=py,bash,powershell,html,css,sql" alt="Programming & Scripting" />
-  <br>
-
   <!-- Tools & Frameworks -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,flask,kubernetes" alt="Tools & Frameworks" />
-  <br>
-
   <!-- Cloud / DevOps -->
   <img src="https://skillicons.dev/icons?i=aws,azure" alt="Cloud & Cloud Security" />
-  <br>
 
   <!-- Offensive Security Tools -->
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
