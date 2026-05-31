@@ -89,6 +89,28 @@ print(me.motto())
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
+
+<h2 align="center">🛠️ Professional Toolkit</h2>
+
+<div align="center">
+
+  <!-- Offensive + Defensive + Core Security -->
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows" alt="Security Platforms" />
+  <br>
+
+  <!-- Programming & Scripting -->
+  <img src="https://skillicons.dev/icons?i=py,bash,powershell,html,css,sql" alt="Programming & Scripting" />
+  <br>
+
+  <!-- Tools & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,flask" alt="Tools & Frameworks" />
+  <br>
+
+  <!-- Cloud / DevOps (optional but modern-looking) -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes" alt="Cloud & DevOps" />
+
+</div>
+
 ---
 
 ## 🔥 Streak Stats
