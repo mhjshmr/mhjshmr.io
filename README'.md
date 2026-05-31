@@ -187,8 +187,7 @@ print(me.motto())
 |:-------|:------------|:-------|:---------------|
 | BSc (Hons) Cyber Security Engineering | University of West London, RAK | Oct 2022 – Jul 2025 | **First-Class Honours** |
 
-**Key Modules:** Cybersecurity · Web Security · Digital Forensics · Networking · Cryptography · ML · Threat Analysis
-
+<p align="left"><b>Key Modules:</b> Cybersecurity · Web Security · Digital Forensics · Networking · Cryptography · ML · Threat Analysis</p>
 </div>
 
 ---
