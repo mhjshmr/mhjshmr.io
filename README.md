@@ -176,7 +176,9 @@ print(me.motto())
 
 <div align="center">
 
-“Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
+  <span style="color:#00ff66; font-family:monospace; font-size:16px;">
+    “Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
+  </span>
   <br/><br/>
 
   <a href="https://linkedin.com/in/mhjshmrahmd/">
