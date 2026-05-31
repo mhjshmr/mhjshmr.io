@@ -32,8 +32,8 @@ class MinhajShameer:
     def __init__(self):
         self.name        = "Minhaj Shameer Ahamed"
         self.role        = "Jr.Cybersecurity Analyst"
-        self.location    = "Al-Ain, Abu Dhabi, UAE 🇦🇪"
-        self.degree      = "BSc (Hons) Cyber Security Eng — First-Class Honours"
+        self.location    = "Al Ain | Abu Dhabi | UAE"
+        self.degree      = "BSc Cyber Security Eng | First Class Honours"
 
         self.fun_fact = "I built MetaWarden to protect your metadata privacy 🛡️"
 
