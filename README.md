@@ -29,15 +29,15 @@
 ```python
 class MinhajShameer:
     def __init__(self):
-        self.name        = "Minhaj Shameer Ahamed"
-        self.role        = "Jr.Cybersecurity Analyst"
-        self.location    = "Al Ain | Abu Dhabi | UAE"
-        self.degree      = "BSc Cyber Security Eng | First Class Honours"
+      self.name      = "Minhaj Shameer Ahamed"
+      self.role      = "Jr.Cybersecurity Analyst"
+      self.location  = "Al Ain | Abu Dhabi | UAE"
+      self.degree    = "BSc Cyber Security Eng | First Class Honours"
 
-        self.fun_fact = "Built MetaWarden for metadata privacy 🛡️"
+      self.fun_fact = "Built MetaWarden for metadata privacy"
 
     def motto(self):
-        return "Hack to learn. Defend to protect. Build to secure. 🔐"
+      return "Hack to learn. Defend to protect. Build to secure."
 
 me = MinhajShameer()
 print(me.motto())
