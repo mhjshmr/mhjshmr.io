@@ -185,7 +185,7 @@ print(me.motto())
 <p align="left"><b>Key Modules:</b> Cybersecurity · Web Security · Digital Forensics · Networking · Cryptography · ML · Threat Analysis</p>
 </div>
 
-
+---
 
 <div align="center">
   “Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
