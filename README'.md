@@ -1,6 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=JUNIOR%20CYBERSECURITY%20ANALYST%20%7C%20PENETRATION%20TESTER&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=JUNIOR+CYBERSECURITY+ANALYST;VAPT+%7C+BLUE+TEAM+%7C+RED+TEAM;MetaWarden+%7C+LogSentry+%7C+SignalForge+Builder;First-Class+Honours+%7C+BSc+Cyber+Security" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views">
     <img src="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </a>
@@ -14,11 +20,6 @@
   <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-07498a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=JUNIOR+CYBERSECURITY+ANALYST;VAPT+%7C+BLUE+TEAM+%7C+RED+TEAM;MetaWarden+%7C+LogSentry+%7C+SignalForge+Builder;First-Class+Honours+%7C+BSc+Cyber+Security" alt="Typing SVG"/>
-</div>
 
 ---
 
