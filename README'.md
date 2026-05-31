@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/CEH-Certified-0ac2c2" alt="CEH Certified" />
-  <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-#02182d?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-02182d?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </div>
 
 <br/>
