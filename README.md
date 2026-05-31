@@ -175,6 +175,10 @@ print(me.motto())
 ---
 
 <div align="center">
+
+“Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
+  <br/><br/>
+
   <a href="https://linkedin.com/in/mhjshmrahmd/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -190,12 +194,10 @@ print(me.motto())
   <a href="https://github.com/mhjshmr/mhjshmr/blob/main/MINHAJ.SHAMEER.RESUME.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
-  <br/><br/>
-  “Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling" width="100%"/>
 
