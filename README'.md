@@ -112,11 +112,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mhjshmrahmd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhjshmrahmd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <a href="https://github.com/mhjshmr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhjshmr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/mhjshmrahmd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjshmrahmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <a href="https://github.com/mhjshmr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjshmr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -125,7 +125,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mhjshmrahmd&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mhjshmr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -133,7 +133,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhjshmrahmd&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhjshmr&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -141,7 +141,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhjshmrahmd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mhjshmr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -199,11 +199,11 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| **[MetaWarden](https://github.com/mhjshmrahmd)** — Metadata Detection & Privacy Risk Analysis Tool | Python, Flask | Final Year Project (First-Class Honours). Detects and removes metadata to prevent privacy leaks; full risk analysis pipeline |
-| **[SignalForge](https://github.com/mhjshmrahmd)** — OT SOC Triage & Threat Detection Assistant | Python | Operational Technology SOC assistant for triaging and detecting threats in industrial/OT environments |
-| **[LogSentry](https://github.com/mhjshmrahmd)** — Security Log Analysis & Alerting Tool | Python, Bash | Automated log parsing, anomaly detection, and alerting for security operations workflows |
-| **[EmailSleuth](https://github.com/mhjshmrahmd)** — Email Phishing Analyzer & Forensics Tool | Python | Analyses email headers and content to detect phishing indicators and perform digital forensics |
-| **[VAPT Multi-Domain Security Assessment](https://github.com/mhjshmrahmd)** | Nmap, Burp Suite, Metasploit, Nessus | Full-scope multi-domain penetration testing lab — RedTeam Hacker Academy capstone |
+| **[MetaWarden](https://github.com/mhjshmr/MetaWarden)** — Metadata Detection & Privacy Risk Analysis Tool | Python, Flask | Final Year Project (First-Class Honours). Detects and removes metadata to prevent privacy leaks; full risk analysis pipeline |
+| **[SignalForge](https://github.com/mhjshmr/SignalForge)** — OT SOC Triage & Threat Detection Assistant | Python | Operational Technology SOC assistant for triaging and detecting threats in industrial/OT environments |
+| **[LogSentry](https://github.com/mhjshmr/LogSentry)** — Security Log Analysis & Alerting Tool | Python, Bash | Automated log parsing, anomaly detection, and alerting for security operations workflows |
+| **[EmailSleuth](https://github.com/mhjshmr/EmailSleuth)** — Email Phishing Analyzer & Forensics Tool | Python | Analyses email headers and content to detect phishing indicators and perform digital forensics |
+| **[VAPT Multi-Domain Security Assessment](https://github.com/mhjshmr/mhjshmr/blob/main/Projects/Internship%20VAPT%20Report%20-%20MINHAJ.pdf)** | Nmap, Burp Suite, Metasploit, Nessus | Full-scope multi-domain penetration testing lab — RedTeam Hacker Academy capstone |
 | **Hands-on Pentest Lab** | HackTheBox, TryHackMe, VulHub, PortSwigger | Continuous practical exploitation and CTF challenges across multiple platforms |
 
 </div>
