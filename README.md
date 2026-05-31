@@ -148,7 +148,7 @@ print(me.motto())
 
 <div align="center">
 
-| Achievement | Details |
+| <u>Achievement</u> | Details |
 |:------------|:--------|
 | **Enterprise Defense Administrator (eEDA)** | INE Security |
 | **Advanced Penetration Tester (APT)** | RedTeam Hacker Academy |
