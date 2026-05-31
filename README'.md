@@ -180,9 +180,9 @@ print(me.motto())
 ---
 
 ## 🎓 Education
-
-<div align="center">
 <br/>
+<div align="center">
+
 | Degree | Institution | Period | Classification |
 |:-------|:------------|:-------|:---------------|
 | BSc (Hons) Cyber Security Engineering | University of West London, RAK | Oct 2022 – Jul 2025 | **First-Class Honours** |
