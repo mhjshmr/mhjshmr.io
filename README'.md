@@ -142,7 +142,7 @@ print(me.motto())
 
 ## Featured Projects
 
-<br/><div align="center">
+<div align="center">
 
 | Project | Highlights |
 |:--------|:-----------|
@@ -159,7 +159,7 @@ print(me.motto())
 
 ## Achievements & Certifications
 
-<br/><div align="center">
+<div align="center">
 
 | Achievement | Details |
 |:------------|:--------|
