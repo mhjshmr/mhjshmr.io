@@ -46,6 +46,7 @@ print(me.motto())
 
 <br clear="right"/>
 
+---
 
 ## Professional Toolkit
 <br/>
@@ -85,6 +86,7 @@ print(me.motto())
 
 </div>
 
+---
 
 ## Streak Stats
 
@@ -92,6 +94,7 @@ print(me.motto())
   <img src="https://streak-stats.demolab.com?user=mhjshmr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
+---
 
 ## Work Experience
 
@@ -139,6 +142,7 @@ print(me.motto())
 </details>
 
 
+---
 
 ## Featured Projects
 
@@ -156,6 +160,7 @@ print(me.motto())
 </div>
 
 
+---
 
 ## Achievements & Certifications
 
@@ -173,6 +178,7 @@ print(me.motto())
 </div>
 
 
+---
 
 ## Education
 <br/>
