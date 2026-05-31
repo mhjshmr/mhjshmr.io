@@ -29,10 +29,10 @@
 ```python
 class MinhajShameer:
     def __init__(self):
-      self.name      = "Minhaj Shameer Ahamed"
-      self.role      = "Jr.Cybersecurity Analyst"
-      self.location  = "Al Ain | Abu Dhabi | UAE"
-      self.degree    = "BSc Cyber Security Eng | First Class Honours"
+      self.name     = "Minhaj Shameer Ahamed"
+      self.role     = "Jr.Cybersecurity Analyst"
+      self.location = "Al Ain | Abu Dhabi | UAE"
+      self.degree   = "BSc CyberSecurity Eng | FirstClass Honours"
 
       self.fun_fact = "Built MetaWarden for metadata privacy"
 
