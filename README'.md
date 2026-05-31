@@ -16,7 +16,6 @@
   <a href="mailto:minhaj.cybersec@outlook.com">
     <img src="https://img.shields.io/badge/Email-278df4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/APT-Certified-0ac2c2" alt="APT Certified" />
   <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-07498a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </div>
 
@@ -198,12 +197,12 @@ print(me.motto())
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:minhaj.cybersec@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  <a href="https://github.com/mhjshmr">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/mhjshmr">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:minhaj.cybersec@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/mhjshmr/mhjshmr/blob/main/MINHAJ.SHAMEER.RESUME.pdf">
