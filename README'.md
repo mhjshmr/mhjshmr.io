@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=JUNIOR%20CYBERSECURITY%20ANALYST%20%7C%20PENETRATION%20TESTER&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=JR%20CYBERSECURITY%20ANALYST%20%7C%20PENETRATION%20TESTER&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=JUNIOR+CYBERSECURITY+ANALYST;VAPT+%7C+BLUE+TEAM+%7C+RED+TEAM;MetaWarden+%7C+LogSentry+%7C+SignalForge+Builder;First-Class+Honours+%7C+BSc+Cyber+Security" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=JR+CYBERSECURITY+ANALYST;VAPT+%7C+BLUE+TEAM+%7C+RED+TEAM;MetaWarden+%7C+LogSentry+%7C+SignalForge+Builder;First-Class+Honours+%7C+BSc+Cyber+Security" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -31,29 +31,9 @@
 class MinhajShameer:
     def __init__(self):
         self.name        = "Minhaj Shameer Ahamed"
-        self.role        = "Junior Cybersecurity Analyst"
-        self.location    = "Al Ain, Abu Dhabi, UAE 🇦🇪"
+        self.role        = "Jr.Cybersecurity Analyst"
+        self.location    = "Al-Ain, Abu Dhabi, UAE 🇦🇪"
         self.degree      = "BSc (Hons) Cyber Security Eng — First-Class Honours"
-        self.university  = "University of West London, RAK"
-
-        self.stack = [
-            "VAPT", "Web App Security", "Network Pentest",
-            "Active Directory", "SIEM", "Threat Detection",
-            "Python", "Bash", "PowerShell", "SQL"
-        ]
-
-        self.tools = [
-            "Burp Suite", "Metasploit", "Nmap", "Nessus",
-            "Wireshark", "Hydra", "BloodHound", "CrackMapExec",
-            "Mimikatz", "OpenVAS", "Gobuster"
-        ]
-
-        self.currently_learning = [
-            "CompTIA Security+",
-            "SIEM Operations & Incident Response",
-            "Cloud Security (AWS/Azure)",
-            "Advanced Active Directory Attacks"
-        ]
 
         self.fun_fact = "I built MetaWarden to protect your metadata privacy 🛡️"
 
