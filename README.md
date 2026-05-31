@@ -33,6 +33,7 @@ class MinhajShameer:
       self.role     = "Jr.Cybersecurity Analyst"
       self.location = "Al Ain | Abu Dhabi | UAE"
       self.degree   = "BSc CyberSecurity Eng | FirstClass Honours"
+      self.focus    = "OffSec | VAPT | Blue Team | IT Support"
 
       self.fun_fact = "Built MetaWarden for metadata privacy"
 
