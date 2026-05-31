@@ -103,10 +103,12 @@ print(me.motto())
 
 > ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-005A8E?style=flat-square&logoColor=white)
 
-- Provide **Tier 1 & Tier 2** technical support for hardware, software, network, and smart classroom technology systems across two campuses
-- Configure, patch, harden, and deploy laptops and desktop systems following organisational IT security standards
-- Create and deploy **standardised system images** for rapid and consistent endpoint provisioning across academic departments
+- Provide **Tier 1 & Tier 2** technical support for hardware, software, network, and smart classroom technology systems
+- Configure, patch, harden, and deploy laptops, desktop systems, and endpoint devices following organizational IT security standards
+- Create and deploy standardized system images for rapid and consistent endpoint provisioning across academic departments
+- Diagnose and resolve hardware-related issues through component-level troubleshooting and device maintenance procedures
 - Assist with IT infrastructure and cybersecurity operations including OS reinstallation, endpoint preparation, and decommissioning
+- Support secure IT service delivery across Abu Dhabi and Al Ain campuses while gaining exposure to infrastructure operations
 </details>
 
 <details>
@@ -148,7 +150,7 @@ print(me.motto())
 
 <div align="center">
 
-| <u>Achievement</u> | Details |
+| Achievement | Details |
 |:------------|:--------|
 | **Enterprise Defense Administrator (eEDA)** | INE Security |
 | **Advanced Penetration Tester (APT)** | RedTeam Hacker Academy |
