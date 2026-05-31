@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=JUNIOR%20CYBERSECURITY%20ANALYST%20%7C%20PENETRATION%20TESTER&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=JUNIOR%20CYBERSECURITY%20ANALYST%20%7C%20PENETRATION%20TESTER&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views">
@@ -182,7 +182,7 @@ print(me.motto())
 | **[SignalForge](https://github.com/mhjshmr/SignalForge)** — OT SOC Triage & Threat Detection Assistant | Python | Operational Technology SOC assistant for triaging and detecting threats in industrial/OT environments |
 | **[LogSentry](https://github.com/mhjshmr/LogSentry)** — Security Log Analysis & Alerting Tool | Python, Bash | Automated log parsing, anomaly detection, and alerting for security operations workflows |
 | **[EmailSleuth](https://github.com/mhjshmr/EmailSleuth)** — Email Phishing Analyzer & Forensics Tool | Python | Analyses email headers and content to detect phishing indicators and perform digital forensics |
-| **[VAPT Multi-Domain Security Assessment](https://github.com/mhjshmr/mhjshmr/blob/main/Projects/Internship%20VAPT%20Report%20-%20MINHAJ.pdf)** | Nmap, Burp Suite, Metasploit, Nessus | Full-scope multi-domain penetration testing lab — RedTeam Hacker Academy capstone |
+| **[Multi-Domain VAPT](https://github.com/mhjshmr/mhjshmr/blob/main/Projects/Internship%20VAPT%20Report%20-%20MINHAJ.pdf)** | Nmap, Burp Suite, Metasploit, Nessus | Full-scope multi-domain penetration testing lab — RedTeam Hacker Academy capstone |
 | **Hands-on Pentest Lab** | HackTheBox, TryHackMe, VulHub, PortSwigger | Continuous practical exploitation and CTF challenges across multiple platforms |
 
 </div>
@@ -195,14 +195,10 @@ print(me.motto())
 
 | Achievement | Details |
 |:------------|:--------|
-| **First-Class Honours** | BSc (Hons) Cyber Security Engineering — University of West London, RAK |
 | **Enterprise Defense Administrator (eEDA)** | INE Security |
 | **Advanced Penetration Tester (APT)** | RedTeam Hacker Academy |
 | **Certified API Hacking Expert (CAPIE)** | The XSS Rat Security |
-| **VAPT Multi-Domain Security Assessment** | RedTeam Hacker Academy |
-| **SOC in Practice** | IBM |
 | **ISO/IEC 27001 & 42001 Lead Auditor** | Mastermind |
-| **Threat Intelligence & Hunting** | IBM |
 | **Penetration Testing Professional Certificate** | Cybrary |
 | **CompTIA Security+** | In Progress |
 
