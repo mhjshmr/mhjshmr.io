@@ -63,16 +63,16 @@ print(me.motto())
   <br/><br/>
 
   <!-- Offensive Security Tools -->
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLMap-3C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hydra-7B2D8B?style=flat-square" />
-  <img src="https://img.shields.io/badge/BloodHound-FF0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mimikatz-6A1B9A?style=flat-square" />
-  <img src="https://img.shields.io/badge/PowerView-1E88E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nessus-00A9CE?style=flat-square&logo=tenable&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenVAS-00AA4F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/SQLMap-3C3C3C?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Hydra-7B2D8B?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/BloodHound-FF0000?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Mimikatz-6A1B9A?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/PowerView-1E88E5?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Nessus-00A9CE?style=flat-square&logo=tenable&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenVAS-00AA4F?style=flat-square" />&nbsp;
   <br>
 
   <!-- Security Frameworks / Analysis -->
