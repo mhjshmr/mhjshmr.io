@@ -76,13 +76,13 @@ print(me.motto())
   <br>
 
   <!-- Security Frameworks / Analysis -->
-  <img src="https://img.shields.io/badge/SIEM_Analysis-0057B7?style=flat-square&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/NIST_CSF-1D3461?style=flat-square" />
-  <img src="https://img.shields.io/badge/ISO_27001-005A8E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM_Analysis-0057B7?style=flat-square&logo=elastic&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=green" />&nbsp;
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/NIST_CSF-1D3461?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/ISO_27001-005A8E?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />&nbsp;
 
 </div>
 
