@@ -150,7 +150,7 @@ print(me.motto())
 <div align="center">
 
 | Project | Highlights |
-|:--------|:------|:-----------|
+|:--------|:-----------|
 | **[MetaWarden](https://github.com/mhjshmr/MetaWarden)** — Metadata Detection & Privacy Risk Analysis Tool | Final Year Project (First-Class Honours). Detects and removes metadata to prevent privacy leaks; full risk analysis pipeline |
 | **[SignalForge](https://github.com/mhjshmr/SignalForge)** — OT SOC Triage & Threat Detection Assistant | Operational Technology SOC assistant for triaging and detecting threats in industrial/OT environments |
 | **[LogSentry](https://github.com/mhjshmr/LogSentry)** — Security Log Analysis & Alerting Tool | Automated log parsing, anomaly detection, and alerting for security operations workflows |
