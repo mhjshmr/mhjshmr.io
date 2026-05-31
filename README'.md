@@ -46,10 +46,9 @@ print(me.motto())
 
 <br clear="right"/>
 
----
 
 ## Professional Toolkit
-
+<br/>
 <div align="center">
 
   <!-- Core Platforms -->
@@ -60,7 +59,7 @@ print(me.motto())
   <img src="https://skillicons.dev/icons?i=aws,azure" alt="Cloud & Cloud Security" />
   <!-- Programming & Scripting -->
   <img src="https://skillicons.dev/icons?i=py,bash,powershell,html,css,sql" alt="Programming & Scripting" />
-  <br/>
+  <br/><br/>
 
   <!-- Offensive Security Tools -->
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
@@ -85,16 +84,16 @@ print(me.motto())
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
 
 </div>
----
 
-## 🔥 Streak Stats
+
+## Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mhjshmr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 
-## 💼 Work Experience
+## Work Experience
 
 <details>
 <summary><strong>Abu Dhabi University</strong> — IT Infrastructure & Security Intern | Apr 2026 – Present | Abu Dhabi & Al Ain, UAE</summary>
@@ -139,11 +138,11 @@ print(me.motto())
 - Collaborated with team members on web development projects, contributing to design and functionality improvements
 </details>
 
----
 
-## 🚀 Featured Projects
 
-<div align="center">
+## Featured Projects
+
+<br/><div align="center">
 
 | Project | Highlights |
 |:--------|:-----------|
@@ -156,11 +155,11 @@ print(me.motto())
 
 </div>
 
----
 
-## 🏅 Achievements & Certifications
 
-<div align="center">
+## Achievements & Certifications
+
+<br/><div align="center">
 
 | Achievement | Details |
 |:------------|:--------|
@@ -173,9 +172,9 @@ print(me.motto())
 
 </div>
 
----
 
-## 🎓 Education
+
+## Education
 <br/>
 <div align="center">
 
@@ -186,7 +185,7 @@ print(me.motto())
 <p align="left"><b>Key Modules:</b> Cybersecurity · Web Security · Digital Forensics · Networking · Cryptography · ML · Threat Analysis</p>
 </div>
 
----
+
 
 <div align="center">
   “Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
