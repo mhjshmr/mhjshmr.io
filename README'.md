@@ -96,18 +96,12 @@ print(me.motto())
 
   <!-- Offensive + Defensive + Core Security -->
   <img src="https://skillicons.dev/icons?i=linux,kali,windows" alt="Security Platforms" />
- 
-
-  <!-- Programming & Scripting -->
-  <img src="https://skillicons.dev/icons?i=py,bash,powershell,html,css,sql" alt="Programming & Scripting" />
-  
-
   <!-- Tools & Frameworks -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,flask" alt="Tools & Frameworks" />
-  
-
   <!-- Cloud / DevOps (optional but modern-looking) -->
   <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes" alt="Cloud & DevOps" />
+    <!-- Programming & Scripting -->
+  <img src="https://skillicons.dev/icons?i=py,bash,powershell,html,css,sql" alt="Programming & Scripting" />
 
 </div>
 
