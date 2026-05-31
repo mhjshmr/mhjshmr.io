@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Minhaj%20Shameer%20Ahamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Junior%20Cybersecurity%20Analyst%20%7C%20Pentester%20%7C%20Security%20Builder&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Junior%20Cybersecurity%20Analyst%20%7C%20Penetration%20Tester&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=mhjshmrahmd&color=70a5fd&style=flat-square&label=Profile+Views">
-    <img src="https://komarev.com/ghpvc/?username=mhjshmrahmd&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views">
+    <img src="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </a>
   <a href="https://linkedin.com/in/mhjshmrahmd/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Junior+Cybersecurity+Analyst+%F0%9F%94%90;VAPT+%7C+Web+Security+%7C+Red+Team;MetaWarden+%7C+LogSentry+%7C+SignalForge+Builder;First-Class+Honours+%7C+BSc+Cyber+Security" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Junior+Cybersecurity+Analyst;VAPT+%7C+Web+Security+%7C+Red+Team;MetaWarden+%7C+LogSentry+%7C+SignalForge+Builder;First-Class+Honours+%7C+BSc+Cyber+Security" alt="Typing SVG"/>
 </div>
 
 ---
