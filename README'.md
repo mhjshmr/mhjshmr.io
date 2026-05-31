@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=JUNIOR%20CYBERSECURITY%20ANALYST%20%7C%20PENETRATION%20TESTER&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=JUNIOR%20CYBERSECURITY%20ANALYST%20%7C%20PENETRATION%20TESTER&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views">
@@ -10,6 +10,7 @@
   <a href="mailto:minhaj.cybersec@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
+  <img src="https://img.shields.io/badge/CEH-Certified-brightgreen" alt="CEH Certified" />
   <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-38bdae?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </div>
 
