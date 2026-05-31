@@ -206,7 +206,7 @@ print(me.motto())
   </a>
   &nbsp;
   <a href="https://github.com/mhjshmr/mhjshmr/blob/main/MINHAJ.SHAMEER.RESUME.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
   <br/><br/>
   “Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
