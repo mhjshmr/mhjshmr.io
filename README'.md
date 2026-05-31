@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Junior%20Cybersecurity%20Analyst%20%7C%20Penetration%20Tester&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=JUNIOR%20CYBERSECURITY%20ANALYST%20%7C%20PENETRATION%20TESTER&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views">
@@ -10,13 +10,13 @@
   <a href="mailto:minhaj.cybersec@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Al%20Ain%2C%20UAE-38bdae?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-38bdae?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Junior+Cybersecurity+Analyst;VAPT+%7C+Web+Security+%7C+Red+Team;MetaWarden+%7C+LogSentry+%7C+SignalForge+Builder;First-Class+Honours+%7C+BSc+Cyber+Security" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=JUNIOR+CYBERSECURITY+ANALYST;VAPT+%7C+BLUE+TEAM+%7C+RED+TEAM;MetaWarden+%7C+LogSentry+%7C+SignalForge+Builder;First-Class+Honours+%7C+BSc+Cyber+Security" alt="Typing SVG"/>
 </div>
 
 ---
@@ -149,7 +149,7 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary>🏛️ <strong>Abu Dhabi University</strong> — IT Infrastructure & Security Intern | Apr 2026 – Present | Abu Dhabi & Al Ain, UAE</summary>
+<summary><strong>Abu Dhabi University</strong> — IT Infrastructure & Security Intern | Apr 2026 – Present | Abu Dhabi & Al Ain, UAE</summary>
 
 > ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-005A8E?style=flat-square&logoColor=white)
 
@@ -160,7 +160,7 @@ print(me.motto())
 </details>
 
 <details>
-<summary>🕵️ <strong>Freelance Penetration Tester (VAPT)</strong> | Apr 2025 – Present | United Arab Emirates</summary>
+<summary><strong>Freelance Penetration Tester (VAPT)</strong> | Apr 2025 – Present | United Arab Emirates</summary>
 
 > ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00A9CE?style=flat-square&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
 
@@ -171,7 +171,7 @@ print(me.motto())
 </details>
 
 <details>
-<summary>🔴 <strong>RedTeam Hacker Academy</strong> — VAPT Intern | Dec 2025 – Mar 2026 | Dubai, UAE</summary>
+<summary><strong>RedTeam Hacker Academy</strong> — VAPT Intern | Dec 2025 – Mar 2026 | Dubai, UAE</summary>
 
 > ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=flat-square&logoColor=white) ![WhatWeb](https://img.shields.io/badge/WhatWeb-4EAA25?style=flat-square&logoColor=white) ![Android](https://img.shields.io/badge/Android_App_Testing-3DDC84?style=flat-square&logo=android&logoColor=white)
 
@@ -183,7 +183,7 @@ print(me.motto())
 </details>
 
 <details>
-<summary>🌐 <strong>TCR Innovation</strong> — Full Stack Web Development Intern | Jun 2023 – Oct 2023 | Mumbai, India</summary>
+<summary><strong>TCR Innovation</strong> — Full Stack Web Development Intern | Jun 2023 – Oct 2023 | Mumbai, India</summary>
 
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -199,12 +199,12 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🛡️ **[MetaWarden](https://github.com/mhjshmrahmd)** — Metadata Detection & Privacy Risk Analysis Tool | Python, Flask | Final Year Project (First-Class Honours). Detects and removes metadata to prevent privacy leaks; full risk analysis pipeline |
-| 📡 **[SignalForge](https://github.com/mhjshmrahmd)** — OT SOC Triage & Threat Detection Assistant | Python | Operational Technology SOC assistant for triaging and detecting threats in industrial/OT environments |
-| 📋 **[LogSentry](https://github.com/mhjshmrahmd)** — Security Log Analysis & Alerting Tool | Python, Bash | Automated log parsing, anomaly detection, and alerting for security operations workflows |
-| 📧 **[EmailSleuth](https://github.com/mhjshmrahmd)** — Email Phishing Analyzer & Forensics Tool | Python | Analyses email headers and content to detect phishing indicators and perform digital forensics |
-| 🔬 **[VAPT Multi-Domain Security Assessment](https://github.com/mhjshmrahmd)** | Nmap, Burp Suite, Metasploit, Nessus | Full-scope multi-domain penetration testing lab — RedTeam Hacker Academy capstone |
-| 🧪 **Hands-on Pentest Lab** | HackTheBox, TryHackMe, VulHub, PortSwigger | Continuous practical exploitation and CTF challenges across multiple platforms |
+| **[MetaWarden](https://github.com/mhjshmrahmd)** — Metadata Detection & Privacy Risk Analysis Tool | Python, Flask | Final Year Project (First-Class Honours). Detects and removes metadata to prevent privacy leaks; full risk analysis pipeline |
+| **[SignalForge](https://github.com/mhjshmrahmd)** — OT SOC Triage & Threat Detection Assistant | Python | Operational Technology SOC assistant for triaging and detecting threats in industrial/OT environments |
+| **[LogSentry](https://github.com/mhjshmrahmd)** — Security Log Analysis & Alerting Tool | Python, Bash | Automated log parsing, anomaly detection, and alerting for security operations workflows |
+| **[EmailSleuth](https://github.com/mhjshmrahmd)** — Email Phishing Analyzer & Forensics Tool | Python | Analyses email headers and content to detect phishing indicators and perform digital forensics |
+| **[VAPT Multi-Domain Security Assessment](https://github.com/mhjshmrahmd)** | Nmap, Burp Suite, Metasploit, Nessus | Full-scope multi-domain penetration testing lab — RedTeam Hacker Academy capstone |
+| **Hands-on Pentest Lab** | HackTheBox, TryHackMe, VulHub, PortSwigger | Continuous practical exploitation and CTF challenges across multiple platforms |
 
 </div>
 
@@ -214,18 +214,18 @@ print(me.motto())
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🎓 | **First-Class Honours** | BSc (Hons) Cyber Security Engineering — University of West London, RAK |
-| 🛡️ | **Enterprise Defense Administrator (eEDA)** | INE Security |
-| 🔴 | **Advanced Penetration Tester (APT)** | RedTeam Hacker Academy |
-| 🔐 | **Certified API Hacking Expert (CAPIE)** | The XSS Rat Security |
-| 🔍 | **VAPT Multi-Domain Security Assessment** | RedTeam Hacker Academy |
-| 🏢 | **SOC in Practice** | IBM |
-| 📋 | **ISO/IEC 27001 & 42001 Lead Auditor** | Mastermind |
-| 🔎 | **Threat Intelligence & Hunting** | IBM |
-| 💼 | **Penetration Testing Professional Certificate** | Cybrary |
-| ⏳ | **CompTIA Security+** | In Progress |
+| Achievement | Details |
+|:------------|:--------|
+| **First-Class Honours** | BSc (Hons) Cyber Security Engineering — University of West London, RAK |
+| **Enterprise Defense Administrator (eEDA)** | INE Security |
+| **Advanced Penetration Tester (APT)** | RedTeam Hacker Academy |
+| **Certified API Hacking Expert (CAPIE)** | The XSS Rat Security |
+| **VAPT Multi-Domain Security Assessment** | RedTeam Hacker Academy |
+| **SOC in Practice** | IBM |
+| **ISO/IEC 27001 & 42001 Lead Auditor** | Mastermind |
+| **Threat Intelligence & Hunting** | IBM |
+| **Penetration Testing Professional Certificate** | Cybrary |
+| **CompTIA Security+** | In Progress |
 
 </div>
 
@@ -237,7 +237,7 @@ print(me.motto())
 
 | Degree | Institution | Period | Classification |
 |:-------|:------------|:-------|:---------------|
-| 🎓 BSc (Hons) Cyber Security Engineering | University of West London, RAK | Oct 2022 – Jul 2025 | **First-Class Honours** |
+| BSc (Hons) Cyber Security Engineering | University of West London, RAK | Oct 2022 – Jul 2025 | **First-Class Honours** |
 
 **Key Modules:** Cybersecurity · Web Security · Digital Forensics · Networking · Cryptography · ML · Threat Analysis
 
@@ -250,11 +250,11 @@ print(me.motto())
 ## 📚 Currently Learning
 
 ```
-🛡️  CompTIA Security+         →  Domains: Threats, Architecture, Implementation, Ops, Governance
-🔍  SIEM Operations           →  Log Correlation, Alerting, Incident Response Workflows
-☁️  Cloud Security            →  AWS Security Fundamentals, IAM, Cloud Threat Modelling
-🏴  Advanced AD Attacks       →  Kerberoasting, DCSync, Pass-the-Hash, BloodHound Paths
-🤖  AI in Cybersecurity       →  Threat Intelligence Automation, ML-based Anomaly Detection
+CompTIA Security+         →  Domains: Threats, Architecture, Implementation, Ops, Governance
+SIEM Operations           →  Log Correlation, Alerting, Incident Response Workflows
+Cloud Security            →  AWS Security Fundamentals, IAM, Cloud Threat Modelling
+Advanced AD Attacks       →  Kerberoasting, DCSync, Pass-the-Hash, BloodHound Paths
+AI in Cybersecurity       →  Threat Intelligence Automation, ML-based Anomaly Detection
 ```
 
 ---
