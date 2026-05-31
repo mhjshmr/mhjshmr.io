@@ -194,8 +194,6 @@ print(me.motto())
 ---
 
 <div align="center">
-  “Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
-  <br/><br/>
   <a href="https://linkedin.com/in/mhjshmrahmd/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -203,6 +201,9 @@ print(me.motto())
   <a href="mailto:minhaj.cybersec@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
+  <br/><br/>
+  “Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
+
 </div>
 
 <br/>
