@@ -191,6 +191,7 @@ print(me.motto())
 
 </div>
 
+---
 
 <div align="center">
   “Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
