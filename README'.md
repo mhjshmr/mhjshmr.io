@@ -5,13 +5,13 @@
     <img src="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </a>
   <a href="https://linkedin.com/in/mhjshmrahmd/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-084d92?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:minhaj.cybersec@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/CEH-Certified-brightgreen" alt="CEH Certified" />
-  <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-38bdae?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/CEH-Certified-0ac2c2" alt="CEH Certified" />
+  <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-0a0ac2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </div>
 
 <br/>
