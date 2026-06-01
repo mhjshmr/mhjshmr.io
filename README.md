@@ -53,9 +53,9 @@ print(me.motto())
 <div align="center">
 
   <!-- Core Platforms -->
-  <img src="https://skillicons.dev/icons?i=linux,kali,windows" alt="Security Platforms" />
+  <img src="https://skillicons.dev/icons?i=linux,kali" alt="Security Platforms" />
   <!-- Tools & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,flask,kubernetes" alt="Tools & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=github,docker,flask,kubernetes" alt="Tools & Frameworks" />
   <!-- Cloud / DevOps -->
   <img src="https://skillicons.dev/icons?i=aws,azure" alt="Cloud & Cloud Security" />
   <!-- Programming & Scripting -->
@@ -75,7 +75,6 @@ print(me.motto())
   <br>
 
   <!-- Security Frameworks / Analysis -->
-  <img src="https://img.shields.io/badge/SIEM_Analysis-0057B7?style=flat-square&logo=elastic&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=green" />&nbsp;
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />&nbsp;
