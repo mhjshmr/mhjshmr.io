@@ -158,8 +158,6 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 
 > “Cybersecurity is not a product, it’s a practice.” – <i>Bruce Schneier</i>
 
-
-
 ## Professional Toolkit
 
 <div align="center">
@@ -175,7 +173,6 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
   <!-- Offensive Security -->
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/SQLMap-3C3C3C?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Hydra-7B2D8B?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/BloodHound-FF0000?style=flat-square" />&nbsp;
