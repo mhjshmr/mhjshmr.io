@@ -162,15 +162,9 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 
 <div align="center">
 
-  <!-- Platforms & OS -->
-  <img src="https://skillicons.dev/icons?i=linux,kali,aws,azure,docker,kubernetes" alt="Platforms & OS" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,aws,azure,docker,kubernetes,python,bash,powershell,git,github" alt="Tools" />
   <br/><br/>
 
-  <!-- Dev & Scripting -->
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,git,github" alt="Dev & Scripting" />
-  <br/><br/>
-
-  <!-- Offensive Security -->
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/SQLMap-3C3C3C?style=flat-square" />&nbsp;
@@ -178,23 +172,12 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
   <img src="https://img.shields.io/badge/BloodHound-FF0000?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Mimikatz-6A1B9A?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/PowerView-1E88E5?style=flat-square" />&nbsp;
-  <br/><br/>
-
-  <!-- Defensive & Analysis -->
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=00CC00" />&nbsp;
   <img src="https://img.shields.io/badge/Nessus-00A9CE?style=flat-square&logo=tenable&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/OpenVAS-00AA4F?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Volatility-4A4A4A?style=flat-square" />&nbsp;
-  <br/><br/>
-
-  <!-- Identity & Directory -->
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/LDAP-003366?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Kerberos-5C2D91?style=flat-square" />&nbsp;
-  <br/><br/>
-
-  <!-- Frameworks & Standards -->
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E63946?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/NIST_CSF-1D3461?style=flat-square" />&nbsp;
