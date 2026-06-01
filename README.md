@@ -65,7 +65,6 @@ print(me.motto())
   <!-- Offensive Security Tools -->
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/SQLMap-3C3C3C?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Hydra-7B2D8B?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/BloodHound-FF0000?style=flat-square" />&nbsp;
@@ -77,12 +76,14 @@ print(me.motto())
 
   <!-- Security Frameworks / Analysis -->
   <img src="https://img.shields.io/badge/SIEM_Analysis-0057B7?style=flat-square&logo=elastic&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=green" />&nbsp;
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/NIST_CSF-1D3461?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Kerberos-5C2D91?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/ISO_27001-005A8E?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E63946?style=flat-square" />&nbsp;
+
 
 </div>
 
