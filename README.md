@@ -189,12 +189,16 @@ print(me.motto())
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://github.com/mhjshmr">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="mailto:minhaj.cybersec@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/mhjshmr/mhjshmr/blob/main/MINHAJ.SHAMEER.RESUME.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </div>
 
