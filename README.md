@@ -189,7 +189,7 @@ print(me.motto())
     <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/mhjshmr/mhjshmr/blob/main/MINHAJ.SHAMEER.RESUME.pdf">
+  <a href="https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/MINHAJ.SHAMEER.RESUME.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </div>
