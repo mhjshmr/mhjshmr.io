@@ -31,7 +31,7 @@ class MinhajShameer:
     def __init__(self):
       self.name     = "Minhaj Shameer Ahamed"
       self.role     = "Jr.Cybersecurity Analyst"
-      self.location = "Al Ain | Abu Dhabi | UAE"
+      self.location = "United Arab Emirates"
       self.degree   = "BSc CyberSecurity Eng | FirstClass Honours"
       self.focus    = "OffSec | VAPT | Blue Team | IT Support"
 
@@ -91,7 +91,7 @@ print(me.motto())
 ## Work Experience
 
 <details>
-<summary><strong>Abu Dhabi University</strong> — IT Support Administrator Intern | Apr 2026 – Present | Abu Dhabi & Al Ain, UAE</summary>
+<summary><strong>Abu Dhabi University</strong> — IT Support Administrator Intern | Apr 2026 – Present | United Arab Emirates</summary>
 
 > ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-005A8E?style=flat-square&logoColor=white)
 
