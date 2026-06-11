@@ -117,7 +117,7 @@ print(me.motto())
 <details>
 <summary><strong>RedTeam Hacker Academy</strong> — VAPT Intern | Dec 2025 – Mar 2026 | Dubai, UAE</summary>
 
-> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=flat-square&logoColor=white) ![WhatWeb](https://img.shields.io/badge/WhatWeb-4EAA25?style=flat-square&logoColor=white) ![Android](https://img.shields.io/badge/Android_App_Testing-3DDC84?style=flat-square&logo=android&logoColor=white)
+> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=flat-square&logoColor=white) ![WebApp](https://img.shields.io/badge/WebApp-4EAA25?style=flat-square&logoColor=white) ![Android](https://img.shields.io/badge/Android_App_Testing-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 - Executed VAPT engagements on **web applications, internal networks, and Android mobile applications**
 - Conducted reconnaissance and service enumeration using **Nmap, Gobuster, WhatWeb, and Burp Suite**
