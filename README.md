@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-BD00FF?style=flat-square&logo=googlemaps&logoColor=white" /> 
 
 <a href="https://linkedin.com/in/mhjshmrahmd">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/mhjshmr">
