@@ -88,6 +88,28 @@ print(me.motto())
 
 ---
 
+## GitHub Activity Matrix
+
+
+<div align="center">
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjshmr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjshmr&layout=compact&theme=default&hide_border=true&border_radius=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjshmr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</picture>
+
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhjshmr/mhjshmr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhjshmr/mhjshmr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mhjshmr/mhjshmr/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## Work Experience
 
 <details>
