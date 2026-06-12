@@ -1,34 +1,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=JR.%20CYBERSECURITY%20ANALYST%20%7C%20PENETRATION%20TESTER&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=JR.+CYBERSECURITY+ANALYST;OffSec+%7C+VAPT+%7C+DefSec;MetaWarden+%7C+LogSentry+%7C+SignalForge+Builder;First+Class+Honours+%7C+BSc+CyberSecurity" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=JR.+CYBERSECURITY+ANALYST;OffSec+%7C+VAPT+%7C+DefSec;First+Class+Honours+%7C+BSc+CyberSecurity" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views" style="text-decoration:none">
-    <img src="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-07498a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-</div>
-<br/>
-<div align="center">
-  <a href="https://linkedin.com/in/mhjshmrahmd/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mhjshmr">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:minhaj.cybersec@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/MINHAJ.SHAMEER.RESUME.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
+
+<img src="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views" />
+
+<img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-07498a?style=flat-square&logo=googlemaps&logoColor=white" /> 
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=gmail&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Resume-Download-FF5722?style=flat-square&logo=googledrive&logoColor=white" />
+
 </div>
 
 
@@ -36,28 +27,31 @@
 
 ## 👾 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" height="425" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIydnRmNHIzeG4wYzF6YmF5eDUyZDF0dXR0MHVqYzIwcHdmdmdmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
-```python
-class MinhajShameer:
-    def __init__(self):
-      self.name     = "Minhaj Shameer Ahamed"
-      self.role     = "Jr.Cybersecurity Analyst"
-      self.location = "United Arab Emirates"
-      self.degree   = "BSc CyberSecurity Eng | FirstClass Honours"
-      self.focus    = "OffSec | VAPT | Blue Team | IT Support"
+```bash
+root@minhaj:~$ whoami
+▶ Minhaj Shameer Ahamed
 
-      self.fun_fact = "Built MetaWarden for metadata privacy"
+root@minhaj:~$ active_role
+▶ IT Support Administrator
 
-    def motto(self):
-      return "Hack to learn. Defend to protect. Build to secure."
+root@minhaj:~$ location
+▶ United Arab Emirates
 
-me = MinhajShameer()
-print(me.motto())
+root@minhaj:~$ education
+▶ BSc Cyber Security Engineering (First Class Honours)
+
+root@minhaj:~$ target_role
+▶ IT Support Administrator → Jr. Cybersecurity Analyst
+
+root@minhaj:~$ career_path
+▶ OffSec | VAPT | Blue Team | IT Support
+
+root@minhaj:~$ motto
+▶ "Hack to learn. Defend to protect. Build to secure."
+
 ```
-
-<br clear="right"/>
-
 ---
 
 ## Professional Toolkit
