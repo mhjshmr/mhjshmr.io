@@ -203,10 +203,10 @@ root@mhjshmr:~$ motto
 
 <div align="center">
 
-<span style="color:#39ff14; font-weight:bold;">
-“Hack to learn. Defend to protect. Build to secure.” – <i>Bob Thomas</i>
-</span>
-  <br/><br/>
+<img src="https://img.shields.io/badge/Hack_to_learn-000000?style=for-the-badge&logo=gnubash&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Defend_to_protect-000000?style=for-the-badge&logo=gnubash&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Build_to_secure-000000?style=for-the-badge&logo=gnubash&logoColor=39ff14" />  <br/><br/>
+
 
 <div align="center">
   <a href="https://linkedin.com/in/mhjshmrahmd/">
