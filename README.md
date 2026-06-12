@@ -91,7 +91,7 @@ root@mhjshmr:~$ motto
 <img src="https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/OWASP_Top_10-004F9F?style=for-the-badge&logo=owasp&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Kerberos-5C0A0A?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/ISO_27001-4A4A4A?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/ISO27001-4A4A4A?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/AD-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E63946?style=for-the-badge" />&nbsp;
 
