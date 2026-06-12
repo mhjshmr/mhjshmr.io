@@ -10,13 +10,25 @@
   <a href="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views" style="text-decoration:none">
     <img src="https://komarev.com/ghpvc/?username=mhjshmr&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </a>
-  <a href="https://linkedin.com/in/mhjshmrahmd/" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-063f77?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:minhaj.cybersec@outlook.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Email-278df4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
   <img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-07498a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+</div>
+<br/>
+<div align="center">
+  <a href="https://linkedin.com/in/mhjshmrahmd/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mhjshmr">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:minhaj.cybersec@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/MINHAJ.SHAMEER.RESUME.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
 </div>
 
 
