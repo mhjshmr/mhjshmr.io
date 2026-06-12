@@ -8,24 +8,24 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mhjshmr&color=7B2D8B&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=mhjshmr&color=7B2D8B&style=for-the-badge&label=Profile+Views" />
 
-<img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-1A3326?style=flat-square&logo=googlemaps&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-1A3326?style=for-the-badge&logo=googlemaps&logoColor=white" /> 
 
 <a href="https://linkedin.com/in/mhjshmrahmd">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/mhjshmr">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:minhaj.cybersec@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact-C62828?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-C62828?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/MINHAJ.SHAMEER.RESUME.pdf">
-  <img src="https://img.shields.io/badge/Resume-Download-F59E0B?style=flat-square&logo=googledrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resume-Download-F59E0B?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
 </div>
@@ -76,27 +76,25 @@ root@mhjshmr:~$ motto
   <img src="https://skillicons.dev/icons?i=py,bash,powershell,html,css,sql" alt="Programming & Scripting" />
   <br/><br/>
 
-  <!-- Offensive Security Tools -->
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/SQLMap-3C3C3C?style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Hydra-7B2D8B?style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/BloodHound-FF0000?style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Mimikatz-6A1B9A?style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/PowerView-1E88E5?style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Nessus-00A9CE?style=flat-square&logo=tenable&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/OpenVAS-00AA4F?style=flat-square" />&nbsp;
-  <br>
-
-  <!-- Security Frameworks / Analysis -->
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=green" />&nbsp;
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Kerberos-5C2D91?style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/ISO_27001-005A8E?style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E63946?style=flat-square" />&nbsp;
-
+<!-- Offensive Security Tools -->
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/SQLMap-C0392B?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/Hydra-1A1A2E?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/BloodHound-DC143C?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/Mimikatz-4A235A?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/PowerView-0070C0?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/Nessus-00A9CE?style=for-the-badge&logo=tenable&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge" />&nbsp;
+<br>
+<!-- Security Frameworks / Analysis -->
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/OWASP_Top_10-004F9F?style=for-the-badge&logo=owasp&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Kerberos-5C0A0A?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/ISO_27001-4A4A4A?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-E63946?style=for-the-badge" />&nbsp;
 
 </div>
 
