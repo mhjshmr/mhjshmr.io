@@ -81,7 +81,6 @@ root@mhjshmr:~$ motto
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/SQLMap-C0392B?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/Hydra-1A1A2E?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/BloodHound-DC143C?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/Mimikatz-4A235A?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/PowerView-0070C0?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/Nessus-00A9CE?style=for-the-badge&logo=tenable&logoColor=white" />&nbsp;
@@ -93,7 +92,7 @@ root@mhjshmr:~$ motto
 <img src="https://img.shields.io/badge/OWASP_Top_10-004F9F?style=for-the-badge&logo=owasp&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Kerberos-5C0A0A?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/ISO_27001-4A4A4A?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/AD-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E63946?style=for-the-badge" />&nbsp;
 
 </div>
