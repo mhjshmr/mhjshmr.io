@@ -21,7 +21,7 @@
 </a>
 
 <a href="mailto:minhaj.cybersec@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-C62828?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/MINHAJ.SHAMEER.RESUME.pdf">
@@ -222,7 +222,7 @@ root@mhjshmr:~$ motto
   </a>
   &nbsp;
   <a href="mailto:minhaj.cybersec@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-C62828?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/MINHAJ.SHAMEER.RESUME.pdf">
