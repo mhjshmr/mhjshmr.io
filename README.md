@@ -30,25 +30,25 @@
 <img align="right" width="380" height="377" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIydnRmNHIzeG4wYzF6YmF5eDUyZDF0dXR0MHVqYzIwcHdmdmdmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 ```bash
-root@minhaj:~$ whoami
+root@mhjshmr:~$ whoami
 ▶ Minhaj Shameer Ahamed
 
-root@minhaj:~$ active_role
+root@mhjshmr:~$ active_role
 ▶ IT Support Administrator
 
-root@minhaj:~$ location
+root@mhjshmr:~$ location
 ▶ United Arab Emirates
 
-root@minhaj:~$ education
+root@mhjshmr:~$ education
 ▶ BSc Cyber Security Engineering (First Class Honours)
 
-root@minhaj:~$ target_role
+root@mhjshmr:~$ target_role
 ▶ IT Support Administrator → Jr. Cybersecurity Analyst
 
-root@minhaj:~$ career_path
+root@mhjshmr:~$ career_path
 ▶ OffSec | VAPT | Blue Team | IT Support
 
-root@minhaj:~$ motto
+root@mhjshmr:~$ motto
 ▶ "Hack to learn. Defend to protect. Build to secure."
 
 ```
