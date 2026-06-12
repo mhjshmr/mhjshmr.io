@@ -27,7 +27,7 @@
 
 ## 👾 About Me
 
-<img align="right" width="380" height="425" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIydnRmNHIzeG4wYzF6YmF5eDUyZDF0dXR0MHVqYzIwcHdmdmdmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
+<img align="right" width="380" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIydnRmNHIzeG4wYzF6YmF5eDUyZDF0dXR0MHVqYzIwcHdmdmdmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 ```bash
 root@minhaj:~$ whoami
