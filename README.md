@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mhjshmr&color=7B2D8B&style=flat-square&label=Profile+Views" />
 
-<img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-1A3326?style=flat-square&logo=googlemaps&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Location-ABU%20DHABI%2C%20UAE-CD5700?style=flat-square&logo=googlemaps&logoColor=white" /> 
 
 <a href="https://linkedin.com/in/mhjshmrahmd">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/MINHAJ.SHAMEER.RESUME.pdf">
-  <img src="https://img.shields.io/badge/Resume-Download-F59E0B?style=flat-square&logo=googledrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resume-Download-FFC72C?style=flat-square&logo=googledrive&logoColor=white" />
 </a>
 
 </div>
