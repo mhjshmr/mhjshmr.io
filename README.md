@@ -212,9 +212,11 @@ root@mhjshmr:~$ motto
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Hack_to_learn-000000?style=for-the-badge&logo=gnubash&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Defend_to_protect-000000?style=for-the-badge&logo=gnubash&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Build_to_secure-000000?style=for-the-badge&logo=gnubash&logoColor=39ff14" />  <br/><br/>
+<img src="https://img.shields.io/badge/Hack_to_learn-2b2b2b?style=for-the-badge&logo=gnubash&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Defend_to_protect-2b2b2b?style=for-the-badge&logo=gnubash&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Build_to_secure-2b2b2b?style=for-the-badge&logo=gnubash&logoColor=39ff14" />
+<br><br>
+</div>
 
 
 <div align="center">
