@@ -154,9 +154,18 @@ root@mhjshmr:~$ motto
 <div align="center">
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjshmr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjshmr&layout=compact&theme=default&hide_border=true&border_radius=10">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjshmr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjshmr&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjshmr&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=default&hide_border=true&border_radius=10&cache_seconds=1800"
+  >
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjshmr&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </picture>
 
 </div>
