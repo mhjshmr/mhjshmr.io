@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15&height=220&section=header&text=MINHAJ%20SHAMEER%20AHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20ADMINISTRATOR%20%7C%20JUNIOR%20VAPT%20ANALYST&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=IT+SUPPORT+ADMINISTRATOR;JUNIOR+PENTESTER+%7C+SECURITY+ANALYST;OffSec+%7C+VAPT+%7C+DefSec;BSc+CYBERSECURITY+%7C+FIRST+CLASS+HONOURS" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=IT+SUPPORT+ADMINISTRATOR;JUNIOR+PENTESTER+%7C+SECURITY+ANALYST;OffSec+%7C+VAPT+%7C+DefSec;BSc+CYBERSECURITY+%7C+FIRST+CLASS+HONOURS" alt="Typing SVG"/>
 </div>
 
 <br/>
