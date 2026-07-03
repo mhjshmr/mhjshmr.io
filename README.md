@@ -104,20 +104,20 @@ root@mhjshmr:~$ motto
 <details>
 <summary><strong>Abu Dhabi University</strong> — IT Support Administrator Intern | Apr 2026 – Present | United Arab Emirates</summary>
 
-> ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white) ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-005A8E?style=flat-square&logoColor=white)
+> ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-white?style=flat-square&logo=cisco&logoColor=0078D4&labelColor=white&color=0078D4) ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-8B0000?style=flat-square&logoColor=white)
 
 - Provide Tier 1 & Tier 2 technical support for hardware, software, networking, and smart classroom technologies across academic departments.
 - Configure, deploy, patch, and harden Windows desktops, laptops, and endpoint devices in accordance with university IT security standards.
 - Create and maintain standardized Windows system images for efficient endpoint provisioning and deployment.
 - Troubleshoot and resolve hardware, software, printer, peripheral, and operating system issues through systematic diagnostics.
 - Support IT infrastructure operations including OS deployment, endpoint provisioning, device lifecycle management, and secure device decommissioning.
-- Assist in maintaining reliable IT services across the ADU campuses, ensuring minimal downtime for staff, faculty and students.
+- Assist in maintaining reliable IT services across Abu Dhabi University campuses, ensuring minimal downtime for staff, faculty, and students.
 </details>
 
 <details>
 <summary><strong>Freelance Penetration Tester (VAPT)</strong> | Apr 2025 – Present | United Arab Emirates</summary>
 
-> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00A9CE?style=flat-square&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)  ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-2596CD?style=flat-square&logoColor=white)
+> ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00A9CE?style=flat-square&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)  ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-004F9F?style=flat-square&logo=owasp&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) ![AndroidSecurity](https://img.shields.io/badge/AndroidSecurity-3DDC84?style=flat-square&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
 
 - Performed Vulnerability Assessment and Penetration Testing (VAPT) for clients across the UAE covering web applications, internal and external networks, and organizational systems.
 - Conduct reconnaissance, enumeration, vulnerability assessments, and controlled exploitation using Nmap, Nessus, Burp Suite, and Metasploit.
@@ -128,7 +128,7 @@ root@mhjshmr:~$ motto
 <details>
 <summary><strong>Cyber50 Defense</strong> — Red Team Intern | Apr 2026 – Jun 2026 | Abu Dhabi, UAE</summary>
 
-> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-2596CD?style=flat-square&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white) ![RedTeam](https://img.shields.io/badge/RedTeam-5C0A0A?style=flat-square&logoColor=white)
+> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-004F9F?style=flat-square&logo=owasp&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white) ![Red Team](https://img.shields.io/badge/Red_Team-C62828?style=flat-square&logoColor=white)
 
 - Executed Vulnerability Assessment and Penetration Testing (VAPT) engagements on web applications, internal networks, and Android applications within client environments.
 - Performed reconnaissance, enumeration, and vulnerability assessments using Nmap, Burp Suite, Gobuster, and Wireshark.
@@ -141,7 +141,7 @@ root@mhjshmr:~$ motto
 <details>
 <summary><strong>RedTeam Hacker Academy</strong> — VAPT Intern | Dec 2025 – Mar 2026 | Dubai, UAE</summary>
 
-> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=flat-square&logoColor=white) ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-2596CD?style=flat-square&logoColor=white) ![AndroidSecurity](https://img.shields.io/badge/AndroidSecurity-3DDC84?style=flat-square&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=flat-square&logoColor=white) ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-004F9F?style=flat-square&logo=owasp&logoColor=white) ![AndroidSecurity](https://img.shields.io/badge/AndroidSecurity-65A637?style=flat-square&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 - Performed VAPT engagements on web applications, internal networks, and Android applications.
 - Conducted reconnaissance and service enumeration using Nmap, Gobuster, WhatWeb, Wireshark, and Burp Suite.
