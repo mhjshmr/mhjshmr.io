@@ -104,46 +104,50 @@ root@mhjshmr:~$ motto
 <details>
 <summary><strong>Abu Dhabi University</strong> — IT Support Administrator Intern | Apr 2026 – Present | United Arab Emirates</summary>
 
-> ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-005A8E?style=flat-square&logoColor=white)
+> ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white) ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-005A8E?style=flat-square&logoColor=white)
 
-- Provide **Tier 1 & Tier 2** technical support for hardware, software, network, and smart classroom technology systems
-- Configure, patch, harden, and deploy laptops, desktop systems, and endpoint devices following organizational IT security standards
-- Create and deploy standardized system images for rapid and consistent endpoint provisioning across academic departments
-- Diagnose and resolve hardware-related issues through component-level troubleshooting and device maintenance procedures
-- Assist with IT infrastructure and cybersecurity operations including OS reinstallation, endpoint preparation, and decommissioning
-- Support secure IT service delivery across Abu Dhabi and Al Ain campuses while gaining exposure to infrastructure operations
+- Provide Tier 1 & Tier 2 technical support for hardware, software, networking, and smart classroom technologies across academic departments.
+- Configure, deploy, patch, and harden Windows desktops, laptops, and endpoint devices in accordance with university IT security standards.
+- Create and maintain standardized Windows system images for efficient endpoint provisioning and deployment.
+- Troubleshoot and resolve hardware, software, printer, peripheral, and operating system issues through systematic diagnostics.
+- Support IT infrastructure operations including OS deployment, endpoint provisioning, device lifecycle management, and secure device decommissioning.
+- Assist in maintaining reliable IT services across the ADU campuses, ensuring minimal downtime for staff, faculty and students.
 </details>
 
 <details>
 <summary><strong>Freelance Penetration Tester (VAPT)</strong> | Apr 2025 – Present | United Arab Emirates</summary>
 
-> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00A9CE?style=flat-square&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00A9CE?style=flat-square&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)  ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-2596CD?style=flat-square&logoColor=white)
 
-- Conduct independent VAPT engagements on **web applications, internal networks, and organisational systems** for clients across the UAE
-- Perform reconnaissance, vulnerability scanning, and security assessments using **Nmap, Nessus, Metasploit, Burp Suite**
-- Identify and analyse security weaknesses including **misconfigurations, authentication flaws, and application vulnerabilities**
-- Validate vulnerabilities through **controlled exploitation** and prepare comprehensive pentest reports with CVSS risk ratings
+- Performed Vulnerability Assessment and Penetration Testing (VAPT) for clients across the UAE covering web applications, internal and external networks, and organizational systems.
+- Conduct reconnaissance, enumeration, vulnerability assessments, and controlled exploitation using Nmap, Nessus, Burp Suite, and Metasploit.
+- Identify security weaknesses including misconfigurations, authentication flaws, insecure configurations, and web application vulnerabilities.
+- Produce professional penetration testing reports with CVSS risk ratings, technical findings, and remediation recommendations.
+</details>
+
+<details>
+<summary><strong>Cyber50 Defense</strong> — Red Team Intern | Apr 2026 – Jun 2026 | Abu Dhabi, UAE</summary>
+
+> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-2596CD?style=flat-square&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white) ![RedTeam](https://img.shields.io/badge/RedTeam-5C0A0A?style=flat-square&logoColor=white)
+
+- Executed Vulnerability Assessment and Penetration Testing (VAPT) engagements on web applications, internal networks, and Android applications within client environments.
+- Performed reconnaissance, enumeration, and vulnerability assessments using Nmap, Burp Suite, Gobuster, and Wireshark.
+- Identified and validated vulnerabilities including SQL Injection, authentication flaws, insecure configurations, and input validation weaknesses.
+- Conducted Linux privilege escalation and post-exploitation activities to assess security impact.
+- Produced professional penetration testing reports with CVSS risk ratings, executive summaries, technical findings, and remediation recommendations.
+- Collaborated with senior security consultants to validate findings and support remediation efforts.
 </details>
 
 <details>
 <summary><strong>RedTeam Hacker Academy</strong> — VAPT Intern | Dec 2025 – Mar 2026 | Dubai, UAE</summary>
 
-> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=flat-square&logoColor=white) ![WebApp](https://img.shields.io/badge/WebApp-4EAA25?style=flat-square&logoColor=white) ![Android](https://img.shields.io/badge/Android_App_Testing-3DDC84?style=flat-square&logo=android&logoColor=white)
+> ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=flat-square&logoColor=white) ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-2596CD?style=flat-square&logoColor=white) ![AndroidSecurity](https://img.shields.io/badge/AndroidSecurity-3DDC84?style=flat-square&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- Executed VAPT engagements on **web applications, internal networks, and Android mobile applications**
-- Conducted reconnaissance and service enumeration using **Nmap, Gobuster, WhatWeb, and Burp Suite**
-- Identified vulnerabilities including **SQL Injection, authentication flaws, and input validation weaknesses**
-- Exploited Linux server vulnerabilities to achieve **privilege escalation and root-level system access**
-- Produced penetration testing reports with **CVSS risk ratings** and actionable remediation recommendations
-</details>
-
-<details>
-<summary><strong>TCR Innovation</strong> — Full Stack Web Development Intern | Jun 2023 – Oct 2023 | Mumbai, India</summary>
-
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-- Developed responsive, user-friendly websites using **HTML and CSS**
-- Collaborated with team members on web development projects, contributing to design and functionality improvements
+- Performed VAPT engagements on web applications, internal networks, and Android applications.
+- Conducted reconnaissance and service enumeration using Nmap, Gobuster, WhatWeb, Wireshark, and Burp Suite.
+- Assessed applications against the OWASP Top 10, identifying vulnerabilities including SQL Injection, Broken Access Control, Authentication flaws, and Input Validation issues.
+- Performed Linux privilege escalation and post-exploitation activities to validate security impact.
+- Prepared professional penetration testing reports with CVSS risk ratings and actionable remediation recommendations.
 </details>
 
 
