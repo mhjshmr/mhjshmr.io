@@ -51,7 +51,7 @@ root@mhjshmr:~$ education
 ▶ BSc Cyber Security Engineering (First Class Honours)
 
 root@mhjshmr:~$ target_role
-▶ IT Support Admin → Jr. VAPT Analyst
+▶ IT Support Admin → Cloud Security Engineer
 
 root@mhjshmr:~$ career_path
 ▶ OffSec | VAPT | Blue Team | IT Support
