@@ -233,7 +233,11 @@ root@mhjshmr:~$ motto
   </a>
   &nbsp;
   <a href="mailto:minhaj.cybersec@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-C62828?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-8a101d?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://mhjshmr.github.io/mhjshmr/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-08453f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/MINHAJ.SHAMEER.RESUME.pdf">
