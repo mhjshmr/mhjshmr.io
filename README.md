@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/mhjshmr">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+<a href="https://mhjshmr.github.io/mhjshmr/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-786f53?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
 
 <a href="mailto:minhaj.cybersec@outlook.com">
   <img src="https://img.shields.io/badge/Email-Contact-C62828?style=flat-square&logo=gmail&logoColor=white" />
@@ -226,10 +226,6 @@ root@mhjshmr:~$ motto
 <div align="center">
   <a href="https://linkedin.com/in/mhjshmrahmd/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mhjshmr">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:minhaj.cybersec@outlook.com">
