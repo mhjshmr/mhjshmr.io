@@ -429,6 +429,15 @@
   }
   .cert-icon svg{width:24px;height:24px;}
   .cert-name{font-weight:700;color:var(--text);font-size:.95rem;margin-bottom:4px;}
+  .cert-name.cert-link{
+    cursor:pointer;display:inline-block;transition:color .2s,text-decoration-color .2s;
+    text-decoration:underline;text-decoration-color:transparent;text-underline-offset:3px;
+  }
+  .cert-name.cert-link:hover,
+  .cert-name.cert-link:focus-visible{
+    color:var(--accent);text-decoration-color:var(--accent);
+  }
+  .cert-name.cert-link:focus-visible{outline:2px solid var(--accent);outline-offset:4px;border-radius:4px;}
   .cert-org{font-size:.82rem;color:var(--text-mute);font-family:var(--font-mono);}
   .cert-status{
     position:absolute;top:14px;right:14px;font-family:var(--font-mono);font-size:9.5px;
@@ -464,7 +473,60 @@
   .big-badge.github:hover{background:#181717;border-color:#8b949e;color:#fff;box-shadow:0 16px 34px -14px #000;}
   .big-badge.email:hover{background:#C62828;border-color:#C62828;color:#fff;box-shadow:0 16px 34px -14px #C62828;}
   .big-badge.resume:hover{background:#F59E0B;border-color:#F59E0B;color:#0d1117;box-shadow:0 16px 34px -14px #F59E0B;}
-  .big-badge.tryhackme:hover{background:#D0281F;border-color:#D0281F;color:#fff;box-shadow:0 16px 34px -14px #D0281F;}
+  .big-badge.credly:hover{background:#d0541f;border-color:#d0541f;color:#fff;box-shadow:0 16px 34px -14px #d0541f;}
+
+
+  /* ===== contact form ===== */
+  .contact-form{
+    max-width:560px;margin:44px auto 0;text-align:left;
+    background:var(--card);border:1px solid var(--border);border-radius:14px;
+    padding:32px;display:flex;flex-direction:column;gap:20px;
+  }
+  .form-row{display:flex;flex-direction:column;gap:8px;}
+  .form-row label{
+    font-family:var(--font-mono);font-size:12.5px;letter-spacing:.04em;color:var(--text-dim);
+  }
+  .form-row label span{color:var(--accent-3);}
+  .form-row input,
+  .form-row textarea{
+    font-family:var(--font-sans);font-size:14.5px;color:var(--text);
+    background:var(--bg-alt);border:1px solid var(--border);border-radius:8px;
+    padding:12px 14px;width:100%;transition:border-color .2s,box-shadow .2s;
+  }
+  .form-row textarea{resize:vertical;min-height:120px;line-height:1.5;}
+  .form-row input::placeholder,
+  .form-row textarea::placeholder{color:var(--text-mute);}
+  .form-row input:focus,
+  .form-row textarea:focus{
+    outline:none;border-color:var(--border-bright);box-shadow:0 0 0 3px rgba(88,166,255,.15);
+  }
+  .form-row input.invalid,
+  .form-row textarea.invalid{border-color:var(--danger);box-shadow:0 0 0 3px rgba(248,81,73,.12);}
+  .field-error{font-family:var(--font-mono);font-size:12px;color:var(--danger);min-height:14px;}
+  .form-submit{
+    position:relative;font-family:var(--font-mono);font-weight:600;font-size:14px;
+    color:var(--bg);background:var(--accent);border:none;border-radius:8px;
+    padding:14px 20px;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:10px;
+    transition:transform .2s,box-shadow .2s,opacity .2s;
+  }
+  .form-submit:hover:not(:disabled){transform:translateY(-2px);box-shadow:0 12px 26px -12px var(--accent);}
+  .form-submit:disabled{cursor:not-allowed;opacity:.7;}
+  .btn-spinner{
+    width:15px;height:15px;border-radius:50%;border:2px solid rgba(13,17,23,.35);
+    border-top-color:var(--bg);display:none;animation:spin .7s linear infinite;
+  }
+  .form-submit.loading .btn-spinner{display:inline-block;}
+  .form-submit.loading .btn-label{opacity:.85;}
+  @keyframes spin{to{transform:rotate(360deg);}}
+  .form-status{
+    font-family:var(--font-mono);font-size:13px;text-align:center;min-height:18px;
+  }
+  .form-status.success{color:var(--good);}
+  .form-status.error{color:var(--danger);}
+
+  @media(max-width:600px){
+    .contact-form{padding:24px;margin-top:32px;}
+  }
 
   footer{
     text-align:center;padding:36px 24px;border-top:1px solid var(--border);
@@ -694,18 +756,173 @@
       <h2 class="section-title">Let's Build Something Secure</h2>
       <p class="section-sub">Open to IT support, VAPT and cloud security opportunities across the UAE and remote.</p>
     </div>
-    <div class="contact-badges reveal">
+<div class="contact-badges reveal">
       <a class="big-badge linkedin" href="https://linkedin.com/in/mhjshmrahmd" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.45 20.45h-3.55v-5.57c0-1.33-.03-3.04-1.85-3.04-1.86 0-2.14 1.45-2.14 2.94v5.67H9.36V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.11 20.45H3.56V9h3.55v11.45z"/></svg>LinkedIn</a>
       <a class="big-badge github" href="https://github.com/mhjshmr" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.65.5.5 5.65.5 12a11.5 11.5 0 0 0 7.86 10.94c.57.1.78-.25.78-.55v-2.06c-3.2.7-3.87-1.36-3.87-1.36-.53-1.34-1.28-1.7-1.28-1.7-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.76 2.7 1.25 3.36.96.1-.75.4-1.25.73-1.54-2.56-.29-5.25-1.28-5.25-5.7 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11 11 0 0 1 5.8 0c2.2-1.49 3.17-1.18 3.17-1.18.64 1.6.24 2.77.12 3.06.74.8 1.18 1.83 1.18 3.1 0 4.43-2.7 5.4-5.27 5.68.42.36.78 1.08.78 2.18v3.24c0 .3.2.66.79.55A11.5 11.5 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"/></svg>GitHub</a>
+      <a class="big-badge credly"href="https://www.credly.com/users/mhjshmr" target="_blank" rel="noopener"> <svg viewBox="0 0 24 24" fill="currentColor"> <path d="M12 1.5 3 6.75v10.5L12 22.5l9-5.25V6.75L12 1.5zm0 2.3 6.75 3.94v7.52L12 19.2l-6.75-3.94V7.74L12 3.8z"/> </svg> Credly </a>
       <a class="big-badge email" href="mailto:minhaj.cybersec@outlook.com"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 5h18v14H3z"/><path d="M3 6l9 7 9-7"/></svg>Email</a>
       <a class="big-badge resume" href="https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/MINHAJ.SHAMEER.RESUME.pdf" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>Resume</a>
-      <a class="big-badge tryhackme" href="https://tryhackme.com/p/mhj.shmr" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l8 4v6c0 5-3.5 8-8 10-4.5-2-8-5-8-10V6l8-4z"/></svg>TryHackMe</a>
     </div>
+<form class="contact-form reveal" id="contactForm" action="https://api.web3forms.com/submit" method="POST" novalidate>
+  <!-- The access_key value below is set from the WEB3FORMS_ACCESS_KEY config variable in the script at the bottom of this page -->
+  <input type="hidden" name="access_key" value="38a3caca-b83d-4ce2-afe8-06fd45dc20c7">
+  <input type="hidden" name="subject" value="New message from portfolio contact form">
+  <!-- honeypot field for spam bots — kept hidden from real users -->
+  <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
+
+  <div class="form-row">
+    <label for="cf-name">Full Name <span aria-hidden="true">*</span></label>
+    <input type="text" id="cf-name" name="name" placeholder="e.g. Jane Doe" required aria-required="true" aria-describedby="cf-name-error" autocomplete="name">
+    <span class="field-error" id="cf-name-error" role="alert"></span>
+  </div>
+
+    <div class="form-row">
+    <label for="cf-number">Contact Number </label>
+    <input type="tel" id="cf-number" name="number" placeholder="e.g. +1 (555) 123-4567"  aria-describedby="cf-Number-error" autocomplete="tel">
+    <span class="field-error" id="cf-Number-error" role="alert"></span>
+  </div>
+
+  <div class="form-row">
+    <label for="cf-email">Email Address <span aria-hidden="true">*</span></label>
+    <input type="email" id="cf-email" name="email" placeholder="you@example.com" required aria-required="true" aria-describedby="cf-email-error" autocomplete="email">
+    <span class="field-error" id="cf-email-error" role="alert"></span>
+  </div>
+
+  <div class="form-row">
+    <label for="cf-message">Short Message <span aria-hidden="true">*</span></label>
+    <textarea id="cf-message" name="message" rows="5" placeholder="Tell me a bit about the opportunity or project..." required aria-required="true" aria-describedby="cf-message-error"></textarea>
+    <span class="field-error" id="cf-message-error" role="alert"></span>
+  </div>
+
+  <button type="submit" class="form-submit" id="cf-submit">
+    <span class="btn-label">Send Message</span>
+    <span class="btn-spinner" aria-hidden="true"></span>
+  </button>
+
+  <div class="form-status" id="cf-status" role="status" aria-live="polite"></div>
+</form>
+
     <div class="signature-strip reveal">
       <span>Hack to learn</span><span>Defend to protect</span><span>Build to secure</span>
     </div>
   </div>
 </section>
+
+<script>
+(function(){
+  /* ============================================================
+     Web3Forms configuration
+     Replace this value with your own Web3Forms access key, or
+     inject it at build/deploy time (e.g. from an environment
+     variable) instead of committing a real key to source control.
+     ============================================================ */
+  var WEB3FORMS_ACCESS_KEY = "38a3caca-b83d-4ce2-afe8-06fd45dc20c7";
+
+  var form = document.getElementById('contactForm');
+  if(!form) return;
+
+  form.querySelector('input[name="access_key"]').value = WEB3FORMS_ACCESS_KEY;
+
+  var submitBtn = document.getElementById('cf-submit');
+  var statusEl = document.getElementById('cf-status');
+
+  var fields = {
+    name:    { input: document.getElementById('cf-name'),    error: document.getElementById('cf-name-error') },
+    email:   { input: document.getElementById('cf-email'),   error: document.getElementById('cf-email-error') },
+    message: { input: document.getElementById('cf-message'), error: document.getElementById('cf-message-error') }
+  };
+
+  var emailRe = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  var numberRe = /^\+?[0-9]{10,14}$/;
+
+  function setFieldError(key, msg){
+    fields[key].input.classList.toggle('invalid', !!msg);
+    fields[key].input.setAttribute('aria-invalid', msg ? 'true' : 'false');
+    fields[key].error.textContent = msg || '';
+  }
+
+  function validateField(key){
+    var val = fields[key].input.value.trim();
+    if(key === 'name'){
+      if(!val){ setFieldError('name', 'Please enter your full name.'); return false; }
+    }
+    if(key === 'number'){
+      if(!val){ setFieldError('number', 'Please enter your Contact Number.'); return false; }
+      if(!numberRe.test(val)){ setFieldError('number', 'Please enter a valid Contact Number.'); return false; }
+    }
+    if(key === 'email'){
+      if(!val){ setFieldError('email', 'Please enter your email address.'); return false; }
+      if(!emailRe.test(val)){ setFieldError('email', 'Please enter a valid email address.'); return false; }
+    }
+    if(key === 'message'){
+      if(!val){ setFieldError('message', 'Please enter a short message.'); return false; }
+    }
+    setFieldError(key, '');
+    return true;
+  }
+
+  function validateAll(){
+    var validName = validateField('name');
+    var validEmail = validateField('email');
+    var validMessage = validateField('message');
+    return validName && validEmail && validMessage;
+  }
+
+  Object.keys(fields).forEach(function(key){
+    fields[key].input.addEventListener('input', function(){ setFieldError(key, ''); });
+    fields[key].input.addEventListener('blur', function(){ validateField(key); });
+  });
+
+  function setStatus(type, msg){
+    statusEl.className = 'form-status' + (type ? ' ' + type : '');
+    statusEl.textContent = msg;
+  }
+
+  function setLoading(isLoading){
+    submitBtn.disabled = isLoading;
+    submitBtn.classList.toggle('loading', isLoading);
+  }
+
+  form.addEventListener('submit', function(e){
+    e.preventDefault();
+    setStatus('', '');
+
+    if(!validateAll()){
+      setStatus('error', 'Please fix the highlighted fields and try again.');
+      return;
+    }
+
+    setLoading(true);
+
+    var formData = new FormData(form);
+
+    fetch(form.action, {
+      method: 'POST',
+      body: formData,
+      headers: { 'Accept': 'application/json' }
+    })
+    .then(function(response){
+      return response.json().then(function(data){
+        return { ok: response.ok, data: data };
+      });
+    })
+    .then(function(result){
+      if(result.ok && result.data && result.data.success){
+        setStatus('success', "Thank you for contacting us. We'll get back to you soon.");
+        form.reset();
+      } else {
+        throw new Error((result.data && result.data.message) || 'Submission failed.');
+      }
+    })
+    .catch(function(){
+      setStatus('error', "Something went wrong and your message wasn't sent. Please try again.");
+    })
+    .finally(function(){
+      setLoading(false);
+    });
+  });
+})();
+</script>
 
 <footer>
   <p>root@mhjshmr:~$ echo "Thanks for stopping by" <span class="heart">♥</span> — © 2026 Minhaj Shameer Ahamed</p>
@@ -895,39 +1112,39 @@
   /* ---------- Projects data & render ---------- */
   var projects = [
     {
-      title:"Web VAPT Report Toolkit",
-      desc:"A structured toolkit and templating system for producing professional penetration test reports with CVSS scoring and remediation mapping.",
-      tags:["Python","OWASP Top 10","CVSS","Reporting"],
-      url:"https://github.com/mhjshmr"
+      title:"Advanced Multi-Domain VAPT",
+      desc:"Comprehensive VAPT across web, mobile, internal, and external domains, delivering CVSS risk scoring and actionable remediation guidance for all vulnerabilities.",
+      tags:["VAPT","OWASP Top 10","CVSS","Reporting"],
+      url:"https://github.com/mhjshmr/mhjshmr/blob/main/Projects/Internship%20VAPT%20Report%20-%20MINHAJ.pdf"
     },
     {
-      title:"AD Attack Path Notes",
-      desc:"Documented Active Directory attack paths, Kerberos abuse techniques, and privilege escalation chains from lab and engagement work.",
-      tags:["Active Directory","Kerberos","Mimikatz","PowerView"],
-      url:"https://github.com/mhjshmr"
+      title:"MetaWarden Privacy Analyzer",
+      desc:"Flask-based privacy tool that detects metadata, analyzes exposure risks, and generates privacy scores with remediation guidance.",
+      tags:["Python","Flask","Steganography"],
+      url:"https://github.com/mhjshmr/MetaWarden"
     },
     {
-      title:"Android Security Assessments",
-      desc:"Mobile application security testing scripts and checklists covering insecure storage, IPC, and authentication weaknesses.",
-      tags:["Android","MobSF","Static Analysis"],
-      url:"https://github.com/mhjshmr"
+      title:"SignalForge OT SOC",
+      desc:"OT SOC assistant that analyzes PCAPs, detects industrial protocols, identifies assets, and flags suspicious activities.",
+      tags:["OT Security","Threat Intelligence","Scapy"],
+      url:"https://github.com/mhjshmr/SignalForge"
     },
     {
-      title:"Network Recon Automation",
-      desc:"Bash/Python automation wrapping Nmap, Gobuster, and WhatWeb for faster, consistent reconnaissance during engagements.",
-      tags:["Bash","Nmap","Gobuster","Automation"],
-      url:"https://github.com/mhjshmr"
+      title:"LogSentry Security Analytics",
+      desc:"Python SOC tool that detects brute-force attacks, suspicious log activity, and privilege escalation with automated alerts.",
+      tags:["Python","SIEM","Alerting","Log Analysis"],
+      url:"https://github.com/mhjshmr/LogSentry"
     },
     {
-      title:"Endpoint Hardening Playbook",
-      desc:"Windows endpoint hardening and imaging playbook developed from IT administration work, covering patching and secure baselines.",
-      tags:["Windows","PowerShell","Endpoint Security"],
-      url:"https://github.com/mhjshmr"
+      title:"EmailSleuth Phishing Forensics",
+      desc:"Email forensics tool that analyzes phishing indicators, validates SPF/DKIM/DMARC, and generates threat assessment reports.",
+      tags:["Email Security","Python","Forensics"],
+      url:"https://github.com/mhjshmr/EmailSleuth"
     },
     {
-      title:"Blue Team Detection Notes",
-      desc:"MITRE ATT&CK-mapped detection notes and Splunk search ideas built while studying blue team response to common attack techniques.",
-      tags:["Splunk","MITRE ATT&CK","Blue Team"],
+      title:"Penetration Testing Lab",
+      desc:"Hands-on labs covering web exploitation, Active Directory attacks, privilege escalation, and vulnerability assessment methodologies.",
+      tags:[ "HackTheBox", "TryHackMe", "VulnHub", "PortSwigger" ],
       url:"https://github.com/mhjshmr"
     }
   ];
@@ -948,23 +1165,69 @@
   });
 
   /* ---------- Certifications ---------- */
-  var certs = [
-    {name:"Enterprise Defense Administrator (eEDA)", org:"INE Security", status:"Certified"},
-    {name:"Advanced Penetration Tester (APT)", org:"RedTeam Hacker Academy", status:"Certified"},
-    {name:"Certified API Hacking Expert (CAPIE)", org:"The XSS Rat Security", status:"Certified"},
-    {name:"ISO/IEC 27001 & 42001 Lead Auditor", org:"Mastermind", status:"Certified"},
-    {name:"Penetration Testing Professional Certificate", org:"Cybrary", status:"Certified"},
-    {name:"CompTIA Security+", org:"CompTIA", status:"In Progress"}
-  ];
+var certs = [
+  {
+    name:"Enterprise Defense Administrator (eEDA)",
+    org:"INE Security",
+    status:"Certified",
+    link:"https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/Certificates/eEDA%20Cert.pdf"
+  },
+  {
+    name:"Advanced Penetration Tester (APT)",
+    org:"RedTeam Hacker Academy",
+    status:"Certified",
+    link:"https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/Certificates/RedTeam-Advanced%20Penetration%20Testing-Certificate.pdf"
+  },
+  {
+    name:"Certified API Hacking Expert (CAPIE)",
+    org:"The XSS Rat Security",
+    status:"Certified",
+    link:"https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/Certificates/CAPIE%20-%20Certified%20API%20Hacking%20Expert.pdf"
+  },
+  {
+    name:"ISO/IEC 27001 & 42001 Lead Auditor",
+    org:"Mastermind",
+    status:"Certified",
+    link:"https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/Certificates/Lead%20Auditor%20Certifications"
+  },
+  {
+    name:"Penetration Testing Professional Certificate",
+    org:"Cybrary",
+    status:"Certified",
+    link:"https://raw.githubusercontent.com/mhjshmr/mhjshmr/main/Certificates/Penetration%20Testing%20Professional%20Certificate%20by%20Cybrary.jpg"
+  },
+  {
+    name:"CompTIA Security+",
+    org:"CompTIA",
+    status:"In Progress",
+    link:""
+  }
+];
   var cg = document.getElementById('certGrid');
   certs.forEach(function(c){
     var card = document.createElement('div');
     card.className = 'cert-card reveal';
+    var hasLink = !!c.link;
+    var nameClass = 'cert-name' + (hasLink ? ' cert-link' : '');
+    var nameAttrs = hasLink ? ' tabindex="0" role="link" aria-label="Open certificate: '+c.name+' (opens in a new tab)"' : '';
     card.innerHTML =
       '<div class="cert-status" style="'+(c.status==='Certified' ? 'background:rgba(63,185,80,.15);color:#3fb950;border-color:rgba(63,185,80,.3);' : '')+'">'+c.status.toUpperCase()+'</div>'+
       '<div class="cert-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 2l2.9 6 6.6.7-4.9 4.5 1.4 6.5L12 16.9 5.9 19.7l1.4-6.5-4.9-4.5 6.6-.7z"/></svg></div>'+
-      '<div><div class="cert-name">'+c.name+'</div><div class="cert-org">'+c.org+'</div></div>';
+      '<div><div class="'+nameClass+'"'+nameAttrs+'>'+c.name+'</div><div class="cert-org">'+c.org+'</div></div>';
     cg.appendChild(card);
+
+    // The certificate URL is kept only in the JS `certs` array above — it is never
+    // written into an href attribute or any other visible/inspectable DOM property,
+    // so visitors only ever see the name, organization, and status.
+    if(hasLink){
+      var nameEl = card.querySelector('.cert-name');
+      var openCert = function(){ window.open(c.link, '_blank', 'noopener,noreferrer'); };
+      nameEl.addEventListener('click', openCert);
+      nameEl.addEventListener('keydown', function(e){
+        if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); openCert(); }
+      });
+    }
+
     io.observe(card);
   });
 
